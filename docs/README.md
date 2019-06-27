@@ -1,6 +1,6 @@
 # University of Rwanda (Master in Data Mining)
 
-# Introduction to Machine Learning and Computational Statistics
+# Introduction to Machine Learning and Computational Statistics -- DSC6135
 
 
 ## Course Description
