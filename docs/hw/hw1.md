@@ -66,23 +66,22 @@ Probably it's easiest to load the full dataset, then make a copy that has only t
 
 #### <a name="problem-1"> 1: Response Variable Exploration </a>
 
+**1a:** Produce one figure with three subplots, showing histograms of the $y$ values on training, validation, and test sets. Be sure to set the bin width of the histogram to 1.0 to show the essential features of the distribution.
 
-**1(a):** Produce one figure with three subplots, showing histograms of the $y$ values on training, validation, and test sets. Be sure to set the bin width of the histogram to 1.0 to show the essential features of the distribution.
+**1b:** Describe the **training set** distribution you see in a few sentences. Is it unimodal or multimodal? What kind of shape does it it have? Are there noticeable outliers?
 
-**1(b):** Describe the **training set** distribution you see in a few sentences. Is it unimodal or multimodal? What kind of shape does it it have? Are there noticeable outliers?
-
-**1(c):** Quantify the training set's descriptive statistics. What is the mean? The median? Minimum value? Maximum value?
+**1c:** Quantify the training set's descriptive statistics. What is the mean? The median? Minimum value? Maximum value?
 
 
 #### <a name="problem-2"> 2: Data Exploration for Prediction </a>
 
 Using the training set $x$ data, consider only the **two** features 'diam_mm' and 'shucked_weight_g'.
 
-**2(a):** Create one figure with two subplots. First subplot: scatter plot of `diam_mm` vs `rings`. Second subplot: a scatter plot of `shucked_weight_g` vs `rings`.
+**2a:** Create one figure with two subplots. First subplot: scatter plot of `diam_mm` vs `rings`. Second subplot: a scatter plot of `shucked_weight_g` vs `rings`.
 
-**2(b):** Describe the trends you between diameter and rings (1-2 sentences). Could you predict rings from diameter?
+**2b:** Describe the trends you between diameter and rings (1-2 sentences). Could you predict rings from diameter?
 
-**2(c):** Describe the trends you see between shucked weight and rings (1-2 sentences). Could you predict rings from shucked weight?
+**2c:** Describe the trends you see between shucked weight and rings (1-2 sentences). Could you predict rings from shucked weight?
 
 
 #### <a name="problem-3"> 3: Baseline Predictions </a>
@@ -98,7 +97,7 @@ For each of MeanPredictor and MedianPredictor, you should construct an regressio
 
 To evaluate predictions, you'll need to implement the most common regression performance metric, **mean squared error** (via the `calc_perf_metric__squared_error` function). You should complete this template functions within the starter code file [evaluate_perf_metrics.py](https://github.com/tufts-ml-courses/comp135-19s-assignments/blob/master/hw1/evaluate_perf_metrics.py)
 
-**3(i):** Make a table of the **mean-squared-error** for each of the MeanPredictor and MedianPredictor predictors when evaluated on all 3 dataset splits (training, validation, and test).
+**3a:** Make a table of the **mean-squared-error** for each of the MeanPredictor and MedianPredictor predictors when evaluated on all 3 dataset splits (training, validation, and test).
 
 
 #### <a name="problem-4"> 4: Linear Regression Prediction </a>
@@ -126,11 +125,11 @@ Recall that for linear regression, we've defined the prediction function as $\ha
 
 **Back to the Notebook**: The starter code notebook has already imported your `LeastSquaresLinearRegressor` class (you might need to restart the notebook / reimport after any edits). Construct two instances of your `LeastSquaresLinearRegressor` class, one for each of the versions of the $x$ data ("2 features" and "all 8 features").
 
-**4(i):** Apply your linear regression code to the "2 features" $x$ data, and add a column to our results table showing the **mean-squared-error** when evaluated on all 3 dataset splits (training, validation, and test).
+**4a:** Apply your linear regression code to the "2 features" $x$ data, and add a column to our results table showing the **mean-squared-error** when evaluated on all 3 dataset splits (training, validation, and test).
 
-**4(ii):** Apply your linear regression code to the "8 features" $x$ data, and add a column to our results table showing the **mean-squared-error** when evaluated on all 3 dataset splits (training, validation, and test).
+**4b:** Apply your linear regression code to the "8 features" $x$ data, and add a column to our results table showing the **mean-squared-error** when evaluated on all 3 dataset splits (training, validation, and test).
 
-**4(iii):** Does using more features seem worthwhile? Do you think the improvement on the test data is significant? Why or why not?
+**4c:** Does using more features seem worthwhile? Do you think the improvement on the test data is significant? Why or why not?
 
 
 #### <a name="problem-5"> 5: K-Nearest-Neighbor Regression </a>
@@ -141,16 +140,16 @@ You will explore various values for the number of neighbors $K$: 1, 3, 5, 7, 9, 
 
 For each value, train a `KNeighborsRegressor` object and evaluate it on the training set and the validation set.
 
-**5(i):** Make a line plot showing the trend between mean-squared-error (MSE) and $K$ on the validation set (use line style 'rs-', a solid red line with square markers). Include a line plot representing the K-NN training set MSE vs $K$ (use line style 'r:', a thin dashed red line). Include two flat lines representing linear regression (solid blue) and guess-mean baseline (solid black).
+**5a:** Make a line plot showing the trend between mean-squared-error (MSE) and $K$ on the validation set (use line style 'rs-', a solid red line with square markers). Include a line plot representing the K-NN training set MSE vs $K$ (use line style 'r:', a thin dashed red line). Include two flat lines representing linear regression (solid blue) and guess-mean baseline (solid black).
 
-**5(ii):** Based on this plot, which value of $K$ would you recommend and why?
+**5b:** Based on this plot, which value of $K$ would you recommend and why?
 
-**5(iii):** Add a column to our results table showing the **mean-squared-error** of the selected *best* K-NN regressor from 5(ii) when evaluated on all 3 dataset splits (training, validation, and test).
+**5c:** Add a column to our results table showing the **mean-squared-error** of the selected *best* K-NN regressor from 5(ii) when evaluated on all 3 dataset splits (training, validation, and test).
 
 #### <a name="problem-6"> 6: Analyzing Residuals (not required; bonus points possible) </a>
 
 We'd like to understand what kinds of mistakes we're making. Using the validation set, we can scatter plot the ground truth $y$ values (x-axis) versus the predicted $\hat{y}$ values (y-axis). This can tell us if our model might be underperforming on a specific subset of data.
 
-**6(a):** Create a figure with two subplots, one showing the true labels $y$ in x-axis, and the predicted labels $\hat{y}$ in y-axis as a scatter plot for linear regression (using all features), the other showing the best $K$-NN regressor.
+**6a:** Create a figure with two subplots, one showing the true labels $y$ in x-axis, and the predicted labels $\hat{y}$ in y-axis as a scatter plot for linear regression (using all features), the other showing the best $K$-NN regressor.
 
-**6(b):** Describe your conclusions from these plots. What kinds of systematic errors does each method make?
+**6b:** Describe your conclusions from these plots. What kinds of systematic errors does each method make?
