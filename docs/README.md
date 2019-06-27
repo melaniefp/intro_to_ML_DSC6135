@@ -1,6 +1,6 @@
 # Introduction to Machine Learning and Computational Statistics -- DSC6135
 
-**University of Rwanda (Master in Data Mining)**
+**University of Rwanda**
 
 ## Course Description
 
@@ -14,8 +14,8 @@ Our learning approach will be a mixture of conceptual, theoretical, and practica
 
 |  **Date** | **Assignments** | **Due Dates** | **Lecture<br/>Topics and Slides** | **Practicals, Readings, and Demos** | **Supplemental** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|  27/June/2019 | [HW0](hw0.md) |  | 00_intro.ipynb 01_regression.ipynb |  | intro_numpy.ipynb 00_review_notes.pdf |
-|  28/June/2019 | out: HW1 |  | 02_model_selection.ipynb | git_tutorial.pdf | https://learngitbranching.js.org/ |
+|  27/June/2019 | [HW0](hw/hw0.md) |  | [00_intro_slides.pdf](slides/00_intro_slides.pdf) [01_regression.pdf](slides/01_regression.pdf) |  | [intro_numpy.ipynb](supplementary/intro_numpy.ipynb) ([web](supplementary/intro_numpy/intro_numpy.md)) [00_review_notes.pdf](slides/00_review_notes.pdf) |
+|  28/June/2019 | out: HW1 |  | 02_model_selection.ipynb | git_tutorial.pdf | [learngitbranching.js.org/](https://learngitbranching.js.org/) |
 |  1/July/2019 |  |  | holidays |  |  |
 |  2/July/2019 | out: HW2 | due: HW1 (midnight) | 03_classification.ipynb |  |  |
 |  3/July/2019 |  |  | 04_neural_networks.ipynb |  |  |
@@ -76,6 +76,14 @@ There will be short quizzes at the beginning of each day.
 
 Your main deliverable will be homework reports. You’ll be assessed on effort, the sophistication of your technical approach, the clarity of your explanations, the evidence that you present to support your evaluative claims, and the performance of your implementation. A high performing approach with little explanation will receive little credit, while a careful set of experiments that illuminate why a particular direction turned out to be a dead end may
 receive close to full credit.
+
+
+## Reference materials
+
+- Friedman, Jerome, Trevor Hastie, and Robert Tibshirani. [The elements of statistical learning](https://web.stanford.edu/~hastie/ElemStatLearn/). Vol. 1. No. 10. New York: Springer series in statistics, 2001.
+- John Winn, Christopher M. Bishop, Thomas Diethe, John Guiver and Yordan Zaykov. [Model based machine learning](http://www.mbmlbook.com). 2013.
+- Bishop, Christopher M. Pattern recognition and machine learning. Springer, 2006.
+- Murphy, Kevin P. Machine learning: a probabilistic perspective. MIT press, 2012.
 
 
 ## Philosophy

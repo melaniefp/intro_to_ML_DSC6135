@@ -1,0 +1,16 @@
+.ipynb_checkpoints/
+*.pyc
+*.aux
+*.log
+*.synctex.gz
+*.bbl
+*.out
+*.blg
+*.swp
+*.swn
+*.swo
+*.out
+*.err
+
+**/logs
+trash/
