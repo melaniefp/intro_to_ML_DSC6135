@@ -2,7 +2,7 @@
 
 This homework is not graded, and you do not need to submit your results.
 
-However, the functions these functions will be used in HW1.
+However, these functions will be used in HW1, so make sure you implement them correctly.
 
 
 [Jupyter notebook](hw/hw0.ipynb).
