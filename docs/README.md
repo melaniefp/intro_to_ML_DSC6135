@@ -78,6 +78,13 @@ Your main deliverable will be homework reports. You’ll be assessed on effort, 
 receive close to full credit.
 
 
+## Reference materials
+
+- Friedman, Jerome, Trevor Hastie, and Robert Tibshirani. [The elements of statistical learning](https://web.stanford.edu/~hastie/ElemStatLearn/). Vol. 1. No. 10. New York: Springer series in statistics, 2001.
+- Bishop, Christopher M. Pattern recognition and machine learning. Springer, 2006.
+- Murphy, Kevin P. Machine learning: a probabilistic perspective. MIT press, 2012.
+
+
 ## Philosophy
 
 The goal of this course is to instill a strong technical background for you to responsibly apply machine learning in the world. Thus, in addition to the derivations and the practicals, each class will include a story about real-world applications of machine learning. One full lecture and part of an assignment will be devoted to the ethical implications at the end of the course.
