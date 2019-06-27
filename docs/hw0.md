@@ -53,6 +53,3 @@ We've drafted a function definition and defined a detailed specification in its 
         return None
 
 Use *exclusively* NumPy functions. No calls to any functions in sklearn or other libraries.
-
-
-Remember, use *exclusively* NumPy functions. No calls to any functions in sklearn or other libraries.
