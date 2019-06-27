@@ -16,7 +16,7 @@ PDF report:
 
 * Please export your completed hw1.ipynb notebook as a PDF (easiest way is likely in your browser, just do 'Print as PDF' or similar)
 
-** Starter code:**
+**Starter code:**
 
 Download material here:
 <https://melaniefp.github.io/intro_to_ML_DSC6135/hw/HW1/hw1.zip>
