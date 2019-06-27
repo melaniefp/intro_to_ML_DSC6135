@@ -21,7 +21,7 @@ PDF report:
 Download material here:
 <https://melaniefp.github.io/intro_to_ML_DSC6135/hw/HW1/hw1.zip>
 
-Note: be sure that all plots include readable axe1es labels and legends if needed.
+Note: be sure that all plots include readable axes, labels and legends if needed.
 
 ## <a name="problem-1">Task: Predicting the Age of Abalone Sea Creatures given Physiological Measurements </a>
 
