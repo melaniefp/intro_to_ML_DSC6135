@@ -1,217 +1,90 @@
-[**Syllabus**](syllabus.html) | [**Functions**](doc_functions.html) | [**Data Structures**](doc_struct.html) | [**Demos**](demos.html) | [**FAQ**](FAQ_errors.html)
+# Introduction to Machine Learning and Computational Statistics -- DSC6135
 
-Link to [**Schedule**](https://docs.google.com/spreadsheets/d/1L-Fk2KlTMZ1ETk7WR6r_nWSulkxyrx3mbY8rtu1xABQ/edit?usp=sharing)
+**University of Rwanda (Master in Data Mining)**
 
-## Intro ML
+## Course Description
 
-## GLFM: General Latent Feature Modeling toolbox for python, matlab and R
- 
- This code implements a package for General Laten Feature Model (GLFM) suitable for heterogeneous
- observations. The core code is in C++ and the package provides user interfaces in
- Python, Matlab and R. Moreover, several demos are provided to illustrate different applications, including missing data estimation and data exploratory analysis, of the GLFM.
+Introduction to ML, probabilistic modeling and data science.
+We will cover three major areas in machine learning: supervised, unsupervised and reinforcement learning.
 
-
-To cite this work, please use
-
-     I. Valera, M. F. Pradier, M. Lomeli and Z. Ghahramani, 
-     "General Latent Feature Model for Heterogeneous Datasets", 2017.
-     Available on ArXiv: https://arxiv.org/abs/1706.03779.
+Our learning approach will be a mixture of conceptual, theoretical, and practical. We will discuss the motivations behind common probabilistic models, and the properties that determine whether or not such models will work well for a particular task. On the one hand, you will derive the mathematical underpinnings for many common ML approaches, as well as apply those techniques to model real data.
 
 
-----------------
+## Schedule
 
-GLFM Description
-----------------
-
-GLFM is a general Bayesian nonparametric latent feature model suitable for heterogeneous datasets, where the attributes describing each object can be either discrete, continuous or mixed variables. Specifically, it accounts for the following types of data:
-
-• Continuous variables:
-
-	1. Real-valued, i.e., the attribute takes values in the real line. 
-
-	2. Positive real-valued, i.e., the attribute takes values in the real line.
-
-• Discrete variables:
-
-	1. Categorical data, i.e., the attribute takes a value in a finite unordered set, e.g., {‘blue’,‘red’, ‘black’}.
-
-	2. Ordinal data, i.e., the attribute takes values in a finite ordered set, e.g., {‘never’, ‘often’, ‘always’}.
-
-	3. Count data, i.e., the attribute takes values in the set {0,...,∞}.
-
-
-The GLFM builds on the Indian Buffet Process (Griffiths and Ghahramani, 2011), and therefore, it assumes that each observation x_n^d can be explained by  a potentially infinite-length binary vector **z**_n whose elements indicate whether a latent feature is active or not for the n-th object; and a (real-valued) weighting vector **B**^d, whose elements weight the influence of each latent feature in the d-th attribute. 
-Since the product of the latent feature vector and the weighting vector leads to a real-valued variable, it is necessary to map this variable to the desirable output (continuous or discrete) space, for example, the positive real line. Thus, the GLFM assumes the existence of intermediate Gaussian variables y_n^d, with mean **z**_n**B**^d and called pseudo-observation, and a transformation function f_d() that maps this variable into the actual observation x_n^d.
-As an example, an ordinal attribute taking values in the ordered set {*low*, *medium*, *high*} can be represented using the GLFM as:
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ivaleraM/GLFM/master/figures/Model_example.png" width="600"/>
-  <!-- <img src="https://github.com/ivaleraM/GLFM/blob/master/figures/Model_example.png" width="600"/> -->
-</p>
-
-For more details on the GLMF, please refer to the [research paper](https://arxiv.org/abs/1706.03779).  
-
-------------
-
-GLFM Toolbox
-------------
-
-You can use GLFM from within Python, Matlab and R.
-Below we show an example of how to call GLFM for matrix completion and data
-exploration of a given dataset.
-
-Calling from Python
--------------------
- 
-    import GLFM
-    (hidden) = GLFM.infer(data)
- 
-where **data** is a structure containing:
- 
-    X: NxD observation matrix of N samples and D dimensions
-    C: 1xD string array indicating type of data for each dimension
- 
---- Alternative calls ---
-    
-    import GLFM
-    hidden = GLFM.infer(data, hidden);
- 
-OR
- 
-    import GLFM
-    hidden = GLFM.infer(data, hidden, params);
- 
-where **hidden** is a structure of latent variables:
- 
-    Z: NxK binary matrix of feature assignments (initialization for the IBP)
- 
-and **params** is a structure containing all simulation parameters and model hyperparameters (see [**Data Structures**](doc_struct.html) for further details).
- 
-Calling from Matlab
---------------------
- 
-    hidden = GLFM_infer(data);
- 
-where **data** is a structure containing:
- 
-    X: NxD observation matrix of N samples and D dimensions
-    C: 1xD string array indicating type of data for each dimension 
- 
---- Alternative calls ---
- 
-    hidden = GLFM_infer(data, hidden);
- 
-OR
- 
-    hidden = GLFM_infer(data, hidden, params);
- 
-where **hidden** is a structure of latent variables:
- 
-    Z: NxK binary matrix of feature assignments (initialization for the IBP)
- 
-and **params** is a structure containing all simulation parameters and model hyperparameters (see [**Data Structures**](doc_struct.html) for further details).
- 
-Calling from R
----------------
-    output <- GLFM_infer(data)
- 
-where **data** is a structure containing:
- 
-    X: NxD observation matrix of N samples and D dimensions
-    C: 1xD string array indicating type of data for each dimension 
- 
-and **output** is a list containing the lists **hidden** and **params**.
- 
---- Alternative calls ---
- 
-    output <- GLFM_infer(data,hidden)
- 
-OR
- 
-    output = GLFM_infer(data, list(hidden, params));
- 
-where **hidden** is a list of latent variables:
- 
-    Z: NxK binary matrix of feature assignments (initialization for the IBP)
- 
-and **params** is a list containing all simulation parameters and model hyperparameters (see [**Data Structures**](doc_struct.html) for further details). The **output** list contains the output lists **hidden** and **params**.
-
-Requirements
-------------
-The main requirements include a **gcc compiler** suitable for your OS and the  [GNU GSLlibrary](https://www.gnu.org/software/gsl/).
- 
-• **For Python:**
-
-    - Python 2.7
-    - Anaconda (install at https://www.anaconda.com/download/)
-    - gcc compiler and qt functionality (these modules are normally already available)
-      If not, it can be installed in Ubuntu as:
-
-            sudo apt-get install build-essential
-            sudo apt-get install python-qt4
-
-• **For Matlab:**
- 
-    - Matlab 2012b or higher
-    - GNU GSLlibrary
-        In UBUNTU: sudo apt-get install libgsl0ldbl or sudo apt-get install libgsl0-dev
-    - GMP library
-        In UBUNTU: sudo apt-get install libgmp3-dev
- 
-• **For R:**
- 
-    - R or Rstudio
-    - GNU GSL library (e.g. libgsl0-dev on Debian or Ubuntu)
-    - Rcpp for seamless R and C++ integration
+|  **Date** | **Assignments** | **Due Dates** | **Lecture<br/>Topics and Slides** | **Practicals, Readings, and Demos** | **Supplemental** |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|  27/June/2019 | [HW0](hw0.md) |  | 00_intro.ipynb 01_regression.ipynb |  | intro_numpy.ipynb 00_review_notes.pdf |
+|  28/June/2019 | out: HW1 |  | 02_model_selection.ipynb | git_tutorial.pdf | https://learngitbranching.js.org/ |
+|  1/July/2019 |  |  | holidays |  |  |
+|  2/July/2019 | out: HW2 | due: HW1 (midnight) | 03_classification.ipynb |  |  |
+|  3/July/2019 |  |  | 04_neural_networks.ipynb |  |  |
+|  4/July/2019 |  |  | holidays |  |  |
+|  5/July/2019 | out: HW3 | due: HW2 (midnight) | 05_kernels.ipynb |  |  |
+|  8/July/2019 | out: HW4 | due: HW3 (midnight) | 06_dim_reduction.ipynb |  |  |
+|  9/July/2019 |  |  | 07_clustering.ipynb |  |  |
+|  10/July/2019 | out: HW5 (*) | due:HW4 (midnight) | 08_reco_systems.ipynb |  |  |
+|  11/July/2019 |  |  | 09_topic_models.ipynb |  |  |
+|  12/July/2019 | Presentation |  | 10_advanced_topics.ipynb ethics.pdf |  |  |
+|   |  |  |  |  |  |
+|   |  | (*) due: HW5 on 14/July/2019 midnight |  |  |  |
 
 
 
-Compilation Instructions
---------------------------
-In order to run GLFM on your data, you need to:
- 
-1) Download the latest git repository (command: "git clone https://github.com/ivaleraM/GLFM.git")
+## Goals
+After this course, you will be able to...
 
-2) Compile the C++ code as
+- learn how to think in principled ways of modeling (understand the why's)
+- understand deeply how and why machine learning works
+- learn how to regularize models
+- learn how to optimize objective functions
+- learn how to validate
+- deal with data computationally large/small, and statistically small.
 
-    **For PYTHON** (in a terminal):
-        - Go to folder "GLFM/install/"
-        - Run command: >> bash install_for_python.sh
+## Prerequisites
 
-    **For MATLAB** (in Matlab workspace): 
-        - Add path "GLFM/src/Ccode" and its children directories to Matlab workspace
-        - From matlab command window, execute: >> mex  -lgsl -lgmp -lgslcblas IBPsampler.cpp
+- Python programming.
+- Background in stats, and probability (we will review concepts).
+- Some linear algebra, multivariate calculus.
 
-    **For R** (in a terminal):
-        - Go to folder "GLFM/install/"
-        - Run command: >> bash install_for_R.sh
-        
-3) Check  the success of the compilation by running the scipt 'demo_GLFM_test' available for Python, Matlab and R in the 'demos' folder.
-
-------------
-
-GLFM Demos
-------------
-The folder ''demos'' contain scripts, as well as Jupiter notebooks, with application examples of the GLFM, including missing data estimation (a.k.a. matrix completion) and data exploratory analysis.
-As an example, the script [`demo_toyImages'](https://github.com/ivaleraM/GLFM/blob/master/demos/python/demo_toy_images.ipynb) replicates the example of the IBP linear-Gaussian model in (Griffiths and Ghahramani, 2011) by generating a small set of images composed by different combinations of four original images plus additive Gaussian noise. Using the GLFM, we are able to recover the original images seamlessly.
-Other examples include demo_matrix_completion_MNIST, demo_data_exploration_counties, and demo_data_exploration_prostate, available for PYTHON, Matlab and R. For more detail, please visit our [demo website](https://ivaleram.github.io/GLFM/demos.html).
+Students are expected to write non-trivial programs. Code will be provided in python.
 
 
--------
+## Course Logistics
 
-Licence
--------
-The Python and Matlab implementations are under MIT license. The R implementation extends the [RcppGSLExample](https://github.com/eddelbuettel/rcppgsl/tree/master/inst/examples/RcppGSLExample), and therefore, is under GPL (>= 2) license.
+This is an intensive course of 4h/day for 10 days in total. Each day will be approximately structured as follows:
 
--------
-
-Contact
--------
-
-For further information or contact:
-
-    Isabel Valera: isabel.valera.martinez (at) gmail.com
-    Melanie F. Pradier: melanie.fpradier (at) gmail.com
-    Maria Lomeli: maria.lomeli  (at) eng.cam.ac.uk
+* Quizz of concepts/correction of homeworks + summary of previous day and questions (30 min)
+* Lecture (1h)
+* Practical (30 min)
+* Break (15 min)
+* Lecture (1h)
+* Practical (30 min)
+* Introduction to Homework (15 min)
 
 
+Homeworks will be released/described at the end of class, every two days.
+There will be short quizzes at the beginning of each day.
+
+
+## Requirements and Grading
+
+- (50 pts) 5 mandatory homeworks (every 2 days)
+- (30 pts) quizzes
+- (15 pts) paper presentation
+- (5 pts) participation
+
+Your main deliverable will be homework reports. You’ll be assessed on effort, the sophistication of your technical approach, the clarity of your explanations, the evidence that you present to support your evaluative claims, and the performance of your implementation. A high performing approach with little explanation will receive little credit, while a careful set of experiments that illuminate why a particular direction turned out to be a dead end may
+receive close to full credit.
+
+
+## Philosophy
+
+The goal of this course is to instill a strong technical background for you to responsibly apply machine learning in the world. Thus, in addition to the derivations and the practicals, each class will include a story about real-world applications of machine learning. One full lecture and part of an assignment will be devoted to the ethical implications at the end of the course.
+
+To be blunt: Given the increasing use of machine learning systems, the users and developers of these systems must hold themselves to high professional and ethical standards.
+One can cause real harm by pursuing a good cause via poor engineering choices. Quoting one of our favorite superheroes: with great power (to run any kind of analysis)
+comes great responsibility (to do it properly)!
+
+Related, we expect all participants in this course—instructors, staff, students—to be
+committed to a open, professional, and inclusive environment. Just like the maths, these qualities take cultivation and effort. I will start with the premise that we are all decent people trying our best and encourage constructive feedback to improving the course environment.

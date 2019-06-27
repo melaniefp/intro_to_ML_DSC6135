@@ -1,5 +1,7 @@
 # Introduction to Machine Learning and Computational Statistics
 
-## University of Rwanda (Master in Data Mining)
+## Webpage docs for DSC6135, summer 2019
+
+### University of Rwanda
 
 
