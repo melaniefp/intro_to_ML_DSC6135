@@ -5,9 +5,9 @@ This homework is not graded, and you do not need to submit your results.
 However, these functions will be used in HW1, so make sure you implement them correctly.
 
 
-[Jupyter notebook](hw/hw0.ipynb).
+[Jupyter notebook](hw0.ipynb).
 
-We recommend you use your personal Python installation (for exampe, by downloading [Anaconda](https://www.anaconda.com/distribution/#download-section)), or without installing any software, using [Google Colab](colab.research.google.com/).
+We recommend you use your personal Python installation (for exampe, by downloading [Anaconda](https://www.anaconda.com/distribution/#download-section)), or without installing any software, using [Google Colab](https://colab.research.google.com/).
 
 
 ## <a name="problem-1">Problem 1: Finding Nearest Neighbors via Euclidean Distance</a>
