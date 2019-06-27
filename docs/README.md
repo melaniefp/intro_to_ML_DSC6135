@@ -1,6 +1,8 @@
 [**Introduction**](https://ivaleram.github.io/GLFM/) | [**Functions**](doc_functions.html) | [**Data Structures**](doc_struct.html) | [**Demos**](demos.html) | [**FAQ**](FAQ_errors.html)
 
- 
+
+## Intro ML
+
 ## GLFM: General Latent Feature Modeling toolbox for python, matlab and R
  
  This code implements a package for General Laten Feature Model (GLFM) suitable for heterogeneous
