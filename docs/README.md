@@ -1,5 +1,6 @@
-[**Introduction**](https://ivaleram.github.io/GLFM/) | [**Functions**](doc_functions.html) | [**Data Structures**](doc_struct.html) | [**Demos**](demos.html) | [**FAQ**](FAQ_errors.html)
+[**Syllabus**](syllabus.html) | [**Functions**](doc_functions.html) | [**Data Structures**](doc_struct.html) | [**Demos**](demos.html) | [**FAQ**](FAQ_errors.html)
 
+Link to [**Schedule**](https://docs.google.com/spreadsheets/d/1L-Fk2KlTMZ1ETk7WR6r_nWSulkxyrx3mbY8rtu1xABQ/edit?usp=sharing)
 
 ## Intro ML
 
