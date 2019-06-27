@@ -14,7 +14,7 @@ Our learning approach will be a mixture of conceptual, theoretical, and practica
 
 |  **Date** | **Assignments** | **Due Dates** | **Lecture<br/>Topics and Slides** | **Practicals, Readings, and Demos** | **Supplemental** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|  27/June/2019 | [HW0](docs/hw0.md) |  | 00_intro.ipynb 01_regression.ipynb |  | intro_numpy.ipynb 00_review_notes.pdf |
+|  27/June/2019 | [HW0](hw0.md) |  | 00_intro.ipynb 01_regression.ipynb |  | intro_numpy.ipynb 00_review_notes.pdf |
 |  28/June/2019 | out: HW1 |  | 02_model_selection.ipynb | git_tutorial.pdf | https://learngitbranching.js.org/ |
 |  1/July/2019 |  |  | holidays |  |  |
 |  2/July/2019 | out: HW2 | due: HW1 (midnight) | 03_classification.ipynb |  |  |
