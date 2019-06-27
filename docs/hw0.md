@@ -1,6 +1,8 @@
 ## HW0: Intro to Data Analysis with NumPy
 
-This homework is not graded, and you do not need to submit.
+This homework is not graded, and you do not need to submit your results.
+
+However, the functions these functions will be used in HW1.
 
 
 [Jupyter notebook](hw/hw0.ipynb).
