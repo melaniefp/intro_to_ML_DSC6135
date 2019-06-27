@@ -1,7 +1,3 @@
-title: HW1: Practical Introduction to Regression
-url: hw1.html
-save_as: hw1.html
-show_last_modified_date: True
 
 **Due date**: Tuesday July 02 at 11:59PM.
 
@@ -23,9 +19,9 @@ PDF report:
 ** Starter code:**
 
 Download material here:
-<https://github.com/tufts-ml-courses/comp135-19s-assignments/tree/master/hw1>
+<https://melaniefp.github.io/intro_to_ML_DSC6135/hw/HW1/hw1.zip>
 
-Note: be sure that all plots include readable axes labels and legends if needed.
+Note: be sure that all plots include readable axe1es labels and legends if needed.
 
 ## <a name="problem-1">Task: Predicting the Age of Abalone Sea Creatures given Physiological Measurements </a>
 
@@ -51,7 +47,7 @@ https://www.thespruceeats.com/how-to-clean-abalone-2216416).
 
 In the starter code, we have provided an existing train/validation/test split of this dataset, stored on-disk in comma-separated-value (CSV) files: x_train.csv, y_train.csv, x_valid.csv, y_valid.csv, x_test.csv, and y_test.csv.
 
-Get the data here: <https://github.com/tufts-ml-courses/comp135-19s-assignments/tree/master/hw1/data_abalone>
+Get the data here: <https://melaniefp.github.io/intro_to_ML_DSC6135/hw/HW1/data_abalone.zip>
 
 **Loading $y$**: You'll want to load in the $y$ data into separate NumPy arrays for training, validation, and test. You can read from CSV files into arrays via the following:
 
@@ -102,10 +98,10 @@ For each of MeanPredictor and MedianPredictor, you should construct an regressio
 
 To evaluate predictions, you'll need to implement the most common regression performance metric, **mean squared error** (via the `calc_perf_metric__squared_error` function). You should complete this template functions within the starter code file [evaluate_perf_metrics.py](https://github.com/tufts-ml-courses/comp135-19s-assignments/blob/master/hw1/evaluate_perf_metrics.py)
 
-**1c(i):** Make a table of the **mean-squared-error** for each of the MeanPredictor and MedianPredictor predictors when evaluated on all 3 dataset splits (training, validation, and test).
+**3(i):** Make a table of the **mean-squared-error** for each of the MeanPredictor and MedianPredictor predictors when evaluated on all 3 dataset splits (training, validation, and test).
 
 
-#### <a name="problem-1-d"> 1d: Linear Regression Prediction </a>
+#### <a name="problem-4"> 4: Linear Regression Prediction </a>
 
 Now, we'll try *linear regression* to predict the number of rings given physical measurements.
 
@@ -122,7 +118,7 @@ Nothing should be returned. You're updating the internal state of the object.
 
 These attributes should be set using the formulas discussed in class for solving the "least squares" optimization problem (finding $w$ and $b$ values that minimize squared error on the training set).
 
-Hint: Within a Python class, you can set an attribute like `self.b = 1.0`. 
+Hint: Within a Python class, you can set an attribute like `self.b = 1.0`.
 
 **Coding Step 2/2: The `predict` method** should take in a set of feature vectors $\{x_n\}_{n=1}^N$ and produce (return) the predicted responses $\{ \hat{y}(x_n) \}_{n=1}^N$
 
@@ -130,26 +126,26 @@ Recall that for linear regression, we've defined the prediction function as $\ha
 
 **Back to the Notebook**: The starter code notebook has already imported your `LeastSquaresLinearRegressor` class (you might need to restart the notebook / reimport after any edits). Construct two instances of your `LeastSquaresLinearRegressor` class, one for each of the versions of the $x$ data ("2 features" and "all 8 features").
 
-**1d(i):** Apply your linear regression code to the "2 features" $x$ data, and add a column to our results table showing the **mean-squared-error** when evaluated on all 3 dataset splits (training, validation, and test).
+**4(i):** Apply your linear regression code to the "2 features" $x$ data, and add a column to our results table showing the **mean-squared-error** when evaluated on all 3 dataset splits (training, validation, and test).
 
-**1d(ii):** Apply your linear regression code to the "8 features" $x$ data, and add a column to our results table showing the **mean-squared-error** when evaluated on all 3 dataset splits (training, validation, and test).
+**4(ii):** Apply your linear regression code to the "8 features" $x$ data, and add a column to our results table showing the **mean-squared-error** when evaluated on all 3 dataset splits (training, validation, and test).
 
-**1d(iii):** Does using more features seem worthwhile? Do you think the improvement on the test data is significant? Why or why not?
+**4(iii):** Does using more features seem worthwhile? Do you think the improvement on the test data is significant? Why or why not?
 
 
-#### <a name="problem-1-e"> 1e: K-Nearest-Neighbor Regression </a>
+#### <a name="problem-5"> 5: K-Nearest-Neighbor Regression </a>
 
 Now, we'll apply some more flexible machine learning to this problem: *K nearest neighbors* regression to the full "8 feature" version of the abalone dataset. You should use the [`KNeighborsRegressor` class](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html) provided by `sklearn`.
 
 You will explore various values for the number of neighbors $K$: 1, 3, 5, 7, 9, 11, 21, 41, 61, 81, 101, 201, 401, 801. Also include $N$, the total size of the training data.
 
-For each value, train a `KNeighborsRegressor` object and evaluate it on the training set and the validation set. 
+For each value, train a `KNeighborsRegressor` object and evaluate it on the training set and the validation set.
 
-**1e(i):** Make a line plot showing the trend between mean-squared-error (MSE) and $K$ on the validation set (use line style 'rs-', a solid red line with square markers). Include a line plot representing the K-NN training set MSE vs $K$ (use line style 'r:', a thin dashed red line). Include two flat lines representing linear regression (solid blue) and guess-mean baseline (solid black).
+**5(i):** Make a line plot showing the trend between mean-squared-error (MSE) and $K$ on the validation set (use line style 'rs-', a solid red line with square markers). Include a line plot representing the K-NN training set MSE vs $K$ (use line style 'r:', a thin dashed red line). Include two flat lines representing linear regression (solid blue) and guess-mean baseline (solid black).
 
-**1e(ii):** Based on this plot, which value of $K$ would you recommend and why?
+**5(ii):** Based on this plot, which value of $K$ would you recommend and why?
 
-**1e(iii):** Add a column to our results table showing the **mean-squared-error** of the selected *best* K-NN regressor from 1e(ii) when evaluated on all 3 dataset splits (training, validation, and test).
+**5(iii):** Add a column to our results table showing the **mean-squared-error** of the selected *best* K-NN regressor from 5(ii) when evaluated on all 3 dataset splits (training, validation, and test).
 
 #### <a name="problem-6"> 6: Analyzing Residuals (not required; bonus points possible) </a>
 
