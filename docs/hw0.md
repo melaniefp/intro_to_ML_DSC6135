@@ -7,6 +7,8 @@ However, the functions these functions will be used in HW1.
 
 [Jupyter notebook](hw/hw0.ipynb).
 
+We recommend you use your personal Python installation (for exampe, by downloading [Anaconda](https://www.anaconda.com/distribution/#download-section)), or without installing any software, using [Google Colab](colab.research.google.com/).
+
 
 **Jump to**: [Problem 1](#problem-1) &nbsp; [Problem 2](#problem-2)
 
