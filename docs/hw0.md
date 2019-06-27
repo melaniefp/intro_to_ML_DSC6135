@@ -51,5 +51,11 @@ We've drafted a function definition and defined a detailed specification in its 
         '''
         # TODO: Write Solution
         return None
+        
+**Question:** Plot (x,y) in the range [-5,5] where $y=\mathbf{w}^T \phi(\mathbf{x})$, $\mathbf[w]=[1,−0.4,0.2]$ and $\phi(⋅)$.
+
+is a polynomial basis.
+
+(tip: use lambda functions)
 
 Use *exclusively* NumPy functions. No calls to any functions in sklearn or other libraries.
