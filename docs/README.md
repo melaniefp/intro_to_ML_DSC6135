@@ -19,7 +19,7 @@ Our learning approach will be a mixture of conceptual, theoretical, and practica
 |  **Date** | **Assignments** | **Due Dates** | **Lecture<br/>Topics and Slides** | **Practicals, Readings, and Demos** | **Supplemental** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |  27/June/2019 | [HW0](hw/hw0.md) |  | [00_intro_slides.pdf](slides/00_intro_slides.pdf) [01_regression.pdf](slides/01_regression.pdf) |  | [intro_numpy.ipynb](supplementary/intro_numpy.ipynb) ([web](supplementary/intro_numpy/intro_numpy.md)) [00_review_notes.pdf](slides/00_review_notes.pdf) |
-|  28/June/2019 | [HW1](hw/hw1.md) |  | [02_model_selection.ipynb](slides/02_model_selection.ipynb) | git_tutorial.pdf | [learngitbranching.js.org/](https://learngitbranching.js.org/) |
+|  28/June/2019 | [HW1](hw/hw1.md) |  | [02_model_selection.ipynb](slides/02_model_selection.ipynb) |  |  |
 |  1/July/2019 |  |  | holidays |  |  |
 |  2/July/2019 | out: HW2 | due: HW1 (midnight) | 03_classification.ipynb |  |  |
 |  3/July/2019 |  |  | 04_neural_networks.ipynb |  |  |
@@ -29,8 +29,7 @@ Our learning approach will be a mixture of conceptual, theoretical, and practica
 |  9/July/2019 |  |  | 07_clustering.ipynb |  |  |
 |  10/July/2019 | out: HW5 (*) | due:HW4 (midnight) | 08_reco_systems.ipynb |  |  |
 |  11/July/2019 |  |  | 09_topic_models.ipynb |  |  |
-|  12/July/2019 | Presentation |  | 10_advanced_topics.ipynb ethics.pdf |  |  |
-|   |  |  |  |  |  |
+|  12/July/2019 | Presentation |  | 10_advanced_topics.ipynb ethics.pdf | git_tutorial.pdf | <https://learngitbranching.js.org/> |
 |   |  | (*) due: HW5 on 14/July/2019 midnight |  |  |  |
 
 
