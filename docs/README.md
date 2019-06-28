@@ -9,6 +9,10 @@ We will cover three major areas in machine learning: supervised, unsupervised an
 
 Our learning approach will be a mixture of conceptual, theoretical, and practical. We will discuss the motivations behind common probabilistic models, and the properties that determine whether or not such models will work well for a particular task. On the one hand, you will derive the mathematical underpinnings for many common ML approaches, as well as apply those techniques to model real data.
 
+## Quizzes
+
+* 28 June: [regression](https://docs.google.com/forms/d/1gdUIEedv8AQIRTu1uKUPib9eMmp_5Vl2vj0GAfipMaI/edit).
+
 
 ## Schedule
 
