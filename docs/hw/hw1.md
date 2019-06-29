@@ -131,7 +131,7 @@ These attributes should be set using the formulas discussed in class for solving
 
 Hint: Within a Python class, you can set an attribute like `self.b = 1.0`.
 
-**Coding Step 2/2: The `predict` method** should take in a set of feature vectors $\{x_n\}_{n=1}^N$ and produce (return) the predicted responses $\{ \hat{y}(x_n) \}_{n=1}^N$
+**Coding Step 2/2: The `predict` method** should take in a set of feature vectors {% raw %} $\{x_n\}_{n=1}^N$ {% endraw %} and produce (return) the predicted responses  {% raw %}$\{ \hat{y}(x_n) \}_{n=1}^N$ {% endraw %}
 
 Recall that for linear regression, we've defined the prediction function as $\hat{y}(x_n) = w^T x_n + b$.
 
