@@ -4,11 +4,9 @@
 
 ## Course Description
 
-Introduction to ML, probabilistic modeling and data science.
-We will cover three major areas in machine learning: supervised, unsupervised and reinforcement learning.
+This course will give you an introduction to machine learning, probabilistic modeling and data science. We will cover two major areas in machine learning: supervised learning, and unsupervised learning.
 
 Our learning approach will be a mixture of conceptual, theoretical, and practical. We will discuss the motivations behind common probabilistic models, and the properties that determine whether or not such models will work well for a particular task. On the one hand, you will derive the mathematical underpinnings for many common ML approaches, as well as apply those techniques to model real data.
-
 
 ## Schedule
 
@@ -64,7 +62,7 @@ This is an intensive course of 4h/day for 10 days in total. Each day will be app
 
 
 Homeworks will be released/described at the end of class, every two days.
-There will be short quizzes at the beginning of each day.
+There will be short quizzes/review of concepts at the beginning of each day.
 
 
 ## Requirements and Grading
@@ -88,11 +86,7 @@ receive close to full credit.
 
 ## Philosophy
 
-The goal of this course is to instill a strong technical background for you to responsibly apply machine learning in the world. Thus, in addition to the derivations and the practicals, each class will include a story about real-world applications of machine learning. One full lecture and part of an assignment will be devoted to the ethical implications at the end of the course.
-
-To be blunt: Given the increasing use of machine learning systems, the users and developers of these systems must hold themselves to high professional and ethical standards.
-One can cause real harm by pursuing a good cause via poor engineering choices. Quoting one of our favorite superheroes: with great power (to run any kind of analysis)
-comes great responsibility (to do it properly)!
+The goal of this course is to instill a strong technical background for you to responsibly apply machine learning in the world. Thus, in addition to the derivations and the practicals, each class will include a story about real-world applications of machine learning. We will also talk about ethical implications of machine learning.
 
 Related, we expect all participants in this course—instructors, staff, students—to be
-committed to a open, professional, and inclusive environment. Just like the maths, these qualities take cultivation and effort. I will start with the premise that we are all decent people trying our best and encourage constructive feedback to improving the course environment.
+committed to an open, professional, and inclusive environment. Just like the maths, these qualities take cultivation and effort. We will start with the premise that we are all open-minded people trying our best and encourage constructive feedback to improving the course environment.
