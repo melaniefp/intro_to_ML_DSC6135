@@ -9,6 +9,7 @@
   <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 # HW1: Practical Introduction to Regression
+#### (credit: this homework has been adapted from Mike Hughes course at Tufts University)
 
 **Due date**: Tuesday July 02 at 11:59PM.
 
