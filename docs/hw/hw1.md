@@ -1,3 +1,4 @@
+# HW1: Practical Introduction to Regression
 
 **Due date**: Tuesday July 02 at 11:59PM.
 
