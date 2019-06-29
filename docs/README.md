@@ -8,23 +8,26 @@ This course will give you an introduction to machine learning, probabilistic mod
 
 Our learning approach will be a mixture of conceptual, theoretical, and practical. We will discuss the motivations behind common probabilistic models, and the properties that determine whether or not such models will work well for a particular task. On the one hand, you will derive the mathematical underpinnings for many common ML approaches, as well as apply those techniques to model real data.
 
+## Quizzes
+
+* 28 June: [regression](https://docs.google.com/forms/d/1gdUIEedv8AQIRTu1uKUPib9eMmp_5Vl2vj0GAfipMaI/edit).
+
 ## Schedule
 
 |  **Date** | **Assignments** | **Due Dates** | **Lecture<br/>Topics and Slides** | **Practicals, Readings, and Demos** | **Supplemental** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |  27/June/2019 | [HW0](hw/hw0.md) |  | [00_intro_slides.pdf](slides/00_intro_slides.pdf) [01_regression.pdf](slides/01_regression.pdf) |  | [intro_numpy.ipynb](supplementary/intro_numpy.ipynb) ([web](supplementary/intro_numpy/intro_numpy.md)) [00_review_notes.pdf](slides/00_review_notes.pdf) |
-|  28/June/2019 | out: HW1 |  | 02_model_selection.ipynb | git_tutorial.pdf | [learngitbranching.js.org/](https://learngitbranching.js.org/) |
-|  1/July/2019 |  |  | holidays |  |  |
-|  2/July/2019 | out: HW2 | due: HW1 (midnight) | 03_classification.ipynb |  |  |
-|  3/July/2019 |  |  | 04_neural_networks.ipynb |  |  |
+|  28/June/2019 | [HW1](hw/hw1.md) |  | [02_model_evaluation.pdf](slides/02_model_evaluation.pdf)  |  | [02_variance_reduction_and_likelihood.ipynb](supplementary/02_practical_variance_reduction_and_likelihood.ipynb) |
+|  1/July/2019 |  |  | 03_bayesian_regression |  |  |
+|  2/July/2019 | out: HW2 | due: HW1 (midnight) | 04_classification.ipynb |  |  |
+|  3/July/2019 |  |  | 05_neural_networks.ipynb |  |  |
 |  4/July/2019 |  |  | holidays |  |  |
-|  5/July/2019 | out: HW3 | due: HW2 (midnight) | 05_kernels.ipynb |  |  |
-|  8/July/2019 | out: HW4 | due: HW3 (midnight) | 06_dim_reduction.ipynb |  |  |
-|  9/July/2019 |  |  | 07_clustering.ipynb |  |  |
-|  10/July/2019 | out: HW5 (*) | due:HW4 (midnight) | 08_reco_systems.ipynb |  |  |
-|  11/July/2019 |  |  | 09_topic_models.ipynb |  |  |
-|  12/July/2019 | Presentation |  | 10_advanced_topics.ipynb ethics.pdf |  |  |
-|   |  |  |  |  |  |
+|  5/July/2019 | out: HW3 | due: HW2 (midnight) | 06_kernels.ipynb |  |  |
+|  8/July/2019 | out: HW4 | due: HW3 (midnight) | 07_dim_reduction.ipynb |  |  |
+|  9/July/2019 |  |  | 08_clustering.ipynb |  |  |
+|  10/July/2019 | out: HW5 (*) | due:HW4 (midnight) | 09_reco_systems.ipynb |  |  |
+|  11/July/2019 |  |  | 10_topic_models.ipynb |  |  |
+|  12/July/2019 | Presentation |  | 11_advanced_topics.ipynb ethics.pdf | git_tutorial.pdf | <https://learngitbranching.js.org/> |
 |   |  | (*) due: HW5 on 14/July/2019 midnight |  |  |  |
 
 
