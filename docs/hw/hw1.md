@@ -25,9 +25,9 @@ Note: be sure that all plots include readable axes, labels and legends if needed
 
 ## <a name="problem-1">Task: Predicting the Age of Abalone Sea Creatures given Physiological Measurements </a>
 
-Your ecologist colleagues from Australia have given you a dataset of physiological measurements related to white abalone, an endangered specie [[Wikipedia article on abalone](https://simple.wikipedia.org/wiki/Abalone)]. Your colleagues are interested in monitoring abalone population health by tracking various measurements (length, weight) of these creatures, as well as their age. While the physical measurements are somewhat easy to obtain in the field, directly measuring age is a boring and time-consuming task (cut open the shell, stain it, count the number of rings on the sheel visible through a microscope). The age is known to be equal to 1.5 plus the number of rings.
+Your ecologist colleagues from Australia have given you a dataset of physiological measurements related to white abalone, an endangered specie [[Wikipedia article on abalone](https://simple.wikipedia.org/wiki/Abalone)]. Your colleagues are interested in monitoring abalone population health by tracking various measurements (length, weight) of these creatures, as well as their age. While the physical measurements are somewhat easy to obtain in the field, directly measuring age is a time-consuming task (cut open the shell, stain it, count the number of rings on the sheel visible through a microscope). It also requires killing the animal, which defeats the purpose of protecting the specie.
 
-You have been asked to build a *ring count* predictor for abalone, which is naturally a **regression** problem. You'll have the following input measurements for each abalone:
+The age is known to be equal to 1.5 plus the number of rings inside the animal. You have been asked to build a *ring count* predictor for abalone, which is naturally a **regression** problem. You'll have the following input measurements for each abalone:
 
 | column name      | type    | unit | description |
 | ---------------- | ------- | ---- | ----------- |
@@ -79,23 +79,23 @@ Using the training set $x$ data, consider only the **two** features 'diam_mm' an
 
 **2a:** Create one figure with two subplots. First subplot: scatter plot of `diam_mm` vs `rings`. Second subplot: a scatter plot of `shucked_weight_g` vs `rings`.
 
-**2b:** Describe the trends you between diameter and rings (1-2 sentences). Could you predict rings from diameter?
+**2b:** Describe the trends you see between diameter and rings (1-2 sentences). Could you predict rings from diameter?
 
 **2c:** Describe the trends you see between shucked weight and rings (1-2 sentences). Could you predict rings from shucked weight?
 
 
 #### <a name="problem-3"> 3: Baseline Predictions </a>
 
-Given a training set of values $\{y_n \}_{n=1}^N$, we can **always** consider two simple baselines for prediction that return the same constant values regardless of the input $x_i$ feature vector:
+Given a training set with label values $\{y_i \}_{i=1}^N$, we can **always** consider two simple baselines for prediction that return the same constant values regardless of the input $x_i$ feature vector:
 
 * predict-mean-of-y : $\hat{y}(x_i) = \text{mean}( y_1, y_2, \ldots y_N)$
 * predict-median-of-y : $\hat{y}(x_i) = \text{median}(y_1, y_2, \ldots y_N)$
 
 We have provided fully-function Python classes to do this prediction, `MeanPredictor` and `MedianPredictor`. They follow the template for scikit-learn regression objects discussed in class, meaning they offer `fit` and `predict` methods.
 
-For each of MeanPredictor and MedianPredictor, you should construct an regression object instance, fit it to the training set by calling `fit`, and then obtain predictions on training, validation, and test by calling `predict`.
+For each of MeanPredictor and MedianPredictor, you should construct a regression object instance, fit it to the training set by calling `fit`, and then obtain predictions on training, validation, and test by calling `predict`.
 
-To evaluate predictions, you'll need to implement the most common regression performance metric, **mean squared error** (via the `calc_perf_metric__squared_error` function). You should complete this template functions within the starter code file [evaluate_perf_metrics.py](https://github.com/tufts-ml-courses/comp135-19s-assignments/blob/master/hw1/evaluate_perf_metrics.py)
+To evaluate predictions, you'll need to implement the most common regression performance metric, **mean squared error** (via the `calc_perf_metric__squared_error` function). You should complete this template functions within the starter code file [evaluate_perf_metrics.py]
 
 **3a:** Make a table of the **mean-squared-error** for each of the MeanPredictor and MedianPredictor predictors when evaluated on all 3 dataset splits (training, validation, and test).
 
@@ -104,7 +104,7 @@ To evaluate predictions, you'll need to implement the most common regression per
 
 Now, we'll try *linear regression* to predict the number of rings given physical measurements.
 
-Look at the starter code file [LeastSquaresLinearRegression.py](https://github.com/tufts-ml-courses/comp135-19s-assignments/blob/master/hw1/LeastSquaresLinearRegression.py). This file defines a `LeastSquaresLinearRegressor` class with the two key methods of the usual sklearn regression API: `fit` and `predict`.
+Look at the starter code file [LeastSquaresLinearRegression.py]. This file defines a `LeastSquaresLinearRegressor` class with the two key methods of the usual sklearn regression API: `fit` and `predict`.
 
 You will edit this file to complete the `fit` and the `predict` methods.
 
