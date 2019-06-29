@@ -21,7 +21,7 @@ Our learning approach will be a mixture of conceptual, theoretical, and practica
 |  1/July/2019 |  |  | 03_bayesian_regression |  |  |
 |  2/July/2019 | out: HW2 | due: HW1 (midnight) | 04_classification.ipynb |  |  |
 |  3/July/2019 |  |  | 05_neural_networks.ipynb |  |  |
-|  4/July/2019 |  |  | holidays |  |  |
+|  4/July/2019 |  |  | hackathon (6-10pm) |  |  |
 |  5/July/2019 | out: HW3 | due: HW2 (midnight) | 06_kernels.ipynb |  |  |
 |  8/July/2019 | out: HW4 | due: HW3 (midnight) | 07_dim_reduction.ipynb |  |  |
 |  9/July/2019 |  |  | 08_clustering.ipynb |  |  |
