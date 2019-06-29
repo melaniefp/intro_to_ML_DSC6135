@@ -98,7 +98,7 @@ Using the training set $x$ data, consider only the **two** features 'diam_mm' an
 
 #### <a name="problem-3"> 3: Baseline Predictions </a>
 
-Given a training set with label values $\{y_i \}_{i=1}^N$, we can **always** consider two simple baselines for prediction that return the same constant values regardless of the input $x_i$ feature vector:
+Given a training set with label values {% raw %} $$\{y_i \}_{i=1}^N$$ {% endraw %} , we can **always** consider two simple baselines for prediction that return the same constant values regardless of the input $x_i$ feature vector:
 
 * predict-mean-of-y : $\hat{y}(x_i) = \text{mean}( y_1, y_2, \ldots y_N)$
 * predict-median-of-y : $\hat{y}(x_i) = \text{median}(y_1, y_2, \ldots y_N)$
@@ -131,7 +131,7 @@ These attributes should be set using the formulas discussed in class for solving
 
 Hint: Within a Python class, you can set an attribute like `self.b = 1.0`.
 
-**Coding Step 2/2: The `predict` method** should take in a set of feature vectors {% raw %} $\{x_n\}_{n=1}^N$ {% endraw %} and produce (return) the predicted responses  {% raw %}$\{ \hat{y}(x_n) \}_{n=1}^N$ {% endraw %}
+**Coding Step 2/2: The `predict` method** should take in a set of feature vectors {% raw %} $$\{x_n\}_{n=1}^N$$ {% endraw %} and produce (return) the predicted responses  {% raw %} $$\{ \hat{y}(x_n) \}_{n=1}^N$$ {% endraw %}
 
 Recall that for linear regression, we've defined the prediction function as $\hat{y}(x_n) = w^T x_n + b$.
 
