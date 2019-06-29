@@ -93,3 +93,11 @@ The goal of this course is to instill a strong technical background for you to r
 
 Related, we expect all participants in this course—instructors, staff, students—to be
 committed to an open, professional, and inclusive environment. Just like the maths, these qualities take cultivation and effort. We will start with the premise that we are all open-minded people trying our best and encourage constructive feedback to improving the course environment.
+
+## Acknowledgement
+
+Many slides and homeworks are attributable to/inspired by:
+* Mike Hughes (Tufts University)
+* Finale Doshi-Velez (Harvard University)
+* Erik Sudderth (University of California)
+* James, Witten, Hastie, Tibshirani, Bishop (ISL/ESL books)
