@@ -120,7 +120,7 @@ Look at the starter code file [LeastSquaresLinearRegression.py]. This file defin
 
 You will edit this file to complete the `fit` and the `predict` methods.
 
-**Coding Step 1/2: The `fit` method** should take in a labeled dataset $\{x_n, y_n\}_{n=1}^N$ and instantiate two instance attributes:
+**Coding Step 1/2: The `fit` method** should take in a labeled dataset {% raw %} $\{x_n, y_n\}_{n=1}^N$ {% endraw %} and instantiate two instance attributes:
 
 * `w_F` : 1D array of weights, shape (n_features = F,)
 * `b` : scalar bias
