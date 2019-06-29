@@ -3,6 +3,7 @@
 **Due date**: Tuesday July 02 at 11:59PM.
 
 **What to submit**:
+IMPORTANT: please name the file as firstname_lastname.pdf and firstname_lastname.zip
 * PDF report to upload here: <https://www.aeoncase.com/inbox/AA2YIsWADA3QpixzIReGc>
 * ZIP file of source code turned in to: <https://www.aeoncase.com/inbox/AA2YIsV_5QvbnsJea54h0>
 
@@ -11,7 +12,7 @@ ZIP file of source code should contain:
 * hw1.ipynb : Jupyter Notebook file containing your plotting code and markup
 * LeastSquaresLinearRegression.py : Python file
 * evaluate_perf_metrics.py : Python file
-* COLLABORATORS.txt : a plain text file saying who you collaborated with, and any feedback/comments you might want to add
+* COLLABORATORS.txt : your name, a plain text file saying who you collaborated with, and any feedback/comments you might want to add
 
 PDF report:
 
