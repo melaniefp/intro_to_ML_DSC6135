@@ -1,4 +1,4 @@
-[**Introduction**](https://melaniefp.github.io/intro_to_ML_DSC6135/) | [**Schedule**](schedule.html) | [**Activities**](activities.html) | [**Resources**](references.html)
+[**Introduction**](https://melaniefp.github.io/intro_to_ML_DSC6135/) | [**Schedule**](schedule.html) | [**Activities**](activities.html) | [**Paper presentation**](papers/presentations.html) | [**Resources**](references.html)
 
 # Introduction to Machine Learning and Computational Statistics -- DSC6135
 
