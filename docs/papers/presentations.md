@@ -26,9 +26,9 @@ that is no longer available.
 ### Climate Change and Conservation
 
 4. [Application of Deep Convolutional Neural Networks for Detecting Extreme Weather in Climate Datasets](climate/Application of Deep Convolutional Neural Networks for Detecting Extreme Weather in Climate Datasets.pdf)
-5. [Climate Change and Power Security: Power Load Prediction for Rural Electrical Microgrids Using Long Short Term Memory and Artificial Neural Networks](climate/Climate Change and Power Security: Power Load Prediction for Rural Electrical Microgrids Using Long Short Term Memory and Artificial Neural Networks.pfd)
+5. [Climate Change and Power Security: Power Load Prediction for Rural Electrical Microgrids Using Long Short Term Memory and Artificial Neural Networks](climate/Climate Change and Power Security Power Load Prediction for Rural Electrical Microgrids Using Long Short Term Memory and Artificial Neural Networks.pdf)
 6. [Exploiting Data and Human Knowledge for Predicting Wildlife Poaching](climate/Exploiting Data and Human Knowledge for Predicting Wildlife Poaching.pdf)
-7. [Machine Learning to Analyze the Social-Ecological Impacts of Natural Resource Policy: Insights from Community Forest Management in the Indian Himalaya](Machine Learning to Analyze the Social-Ecological Impacts of Natural Resource Policy- Insights from Community Forest Management in the Indian Himalaya.pdf)
+7. [Machine Learning to Analyze the Social-Ecological Impacts of Natural Resource Policy: Insights from Community Forest Management in the Indian Himalaya](climate/Machine Learning to Analyze the Social Ecological Impacts of Natural Resource Policy Insights from Community Forest Management in the Indian Himalaya.pdf)
 8. [Predictive segmentation of energy consumers](climate/Predictive segmentation of energy consumers.pdf)
 
 ### Finance Business
@@ -40,8 +40,8 @@ that is no longer available.
 ### Health Care and Epidemology
 
 12. [An unsupervised machine learning model for discovering latent infectious diseases using social media data](healthcare/An unsupervised machine learning model for discovering latentinfectious diseases using social media data.pdf)
-13. [Is Demography Destiny? Application of Machine Learning Techniques to Accurately Predict Population Health Outcomes from a Minimal Demographic Dataset](healthcare/Is Demography Destiny? Application of Machine Learning Techniques to Accurately Predict Population Health Outcomes from a Minimal Demographic Dataset.pdf)
-14. [Prediction of In-hospital Mortality inEmergency Department Patients With Sepsis:A Local Big Data–Driven, Machine LearningApproach](healthcare.pdf)
+13. [Is Demography Destiny? Application of Machine Learning Techniques to Accurately Predict Population Health Outcomes from a Minimal Demographic Dataset](healthcare/Is Demography Destiny Application of Machine Learning Techniques to Accurately Predict Population Health Outcomes from a Minimal Demographic Dataset.pdf)
+14. [Prediction of In-hospital Mortality inEmergency Department Patients With Sepsis:A Local Big Data–Driven, Machine LearningApproach](healthcare/Prediction of In-hospital Mortality inEmergency Department Patients With Sepsis A Local Big Data–Driven, Machine LearningApproach.pdf)
 15. [Rodent reservoirs of future zoonotic diseases](healthcare/Rodent reservoirs of future zoonotic diseases.pdf)
 16. [Using Machine Learning Classifiers to Assist Healthcare-Related Decisions: Classification of Electronic Patient Records](healthcare/Using Machine Learning Classifiers to Assist Healthcare-Related Decisions- Classification of Electronic Patient Records.pdf)
 
