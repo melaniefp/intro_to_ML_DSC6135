@@ -1,11 +1,18 @@
 [**Introduction**](https://melaniefp.github.io/intro_to_ML_DSC6135/) | [**Schedule**](schedule.html) | [**Activities**](activities.html) | [**Paper presentation**](papers/presentations.html) | [**Resources**](references.html)
 
-## Presentations
+## Ideathon (Monday July 1st, 2019)
+
+A “hackathon” is an intense 1 or 2 day event in which those working in tech (e.g. programmer, graphic designers, data scientists) work with domain experts to collaborate on software projects. An “ideathon” is like a hackathon wherein the participants focus on outlining solutions to real-life problems without implementing the solutions. The goal of an ideathon is to produce a concrete plan of action for solving a real-life problem at the end of the event. Check out all information [here](https://docs.google.com/document/d/18zX8fHoosjsIoUFmhmZ9GdhB6ZjSFNqCyILRMtCCP4E/edit?usp=sharing).
+
+## Hackaton (Thursday July 4th, 2019)
+
+(Information coming soon)
+
+## Presentations (choosing papers due: July 4th; presentations on: Friday 12th)
 
 * Follow the [link](presentation/presentation.md) to choose a paper for the final
-presentation and read the instructions. **You have until 27th June 23:59 to select a paper**.
+presentation and read the instructions. **You have until 4th July 23:59 to select a paper**.
 If you don't make your selection by the specified date, we will assign you a paper and a partner.
-
 
 ## Quizzes
 
