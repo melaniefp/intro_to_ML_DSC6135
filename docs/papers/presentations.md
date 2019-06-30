@@ -28,7 +28,7 @@ that is no longer available.
 4. [Application of Deep Convolutional Neural Networks for Detecting Extreme Weather in Climate Datasets](climate/Application of Deep Convolutional Neural Networks for Detecting Extreme Weather in Climate Datasets.pdf)
 5. [Climate Change and Power Security: Power Load Prediction for Rural Electrical Microgrids Using Long Short Term Memory and Artificial Neural Networks](climate/Climate Change and Power Security Power Load Prediction for Rural Electrical Microgrids Using Long Short Term Memory and Artificial Neural Networks.pfd)
 6. [Exploiting Data and Human Knowledge for Predicting Wildlife Poaching](climate/Exploiting Data and Human Knowledge for Predicting Wildlife Poaching.pdf)
-7. [Machine Learning to Analyze the Social-Ecological Impacts of Natural Resource Policy: Insights from Community Forest Management in the Indian Himalaya](Machine Learning to Analyze the Social Ecological Impacts of Natural Resource Policy Insights from Community Forest Management in the Indian Himalaya.pdf)
+7. [Machine Learning to Analyze the Social-Ecological Impacts of Natural Resource Policy: Insights from Community Forest Management in the Indian Himalaya](climate/Machine Learning to Analyze the Social Ecological Impacts of Natural Resource Policy Insights from Community Forest Management in the Indian Himalaya.pdf)
 8. [Predictive segmentation of energy consumers](climate/Predictive segmentation of energy consumers.pdf)
 
 ### Finance Business
