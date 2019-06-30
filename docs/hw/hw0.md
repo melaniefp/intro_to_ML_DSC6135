@@ -8,7 +8,7 @@ We recommend you use your personal Python installation (for exampe, by downloadi
 
 ## <a name="problem-1">Task: Implement the k-Nearest Neighbors Prediction Step</a>
 
-Given some dataset of input-output observations { *raw* } $$\{x_n,y_n \}^N_{n=1}$$ { *endraw* }, we would like to be able to make a label prediction $y^{\star}$ for a new input $x^{\star}$. Let us assume that the input is 1-dimensional for simplicity. We will use the k-nearest neighbors algorithm to make new predictions.
+Given some dataset of input-output observations {% raw %} $$\{x_n,y_n \}^N_{n=1}$$ {% endraw %}, we would like to be able to make a label prediction {% raw %} $$y^{\star}$$ {% endraw %} for a new input {% raw %} $$x^{\star}$$ {% endraw %}. Let us assume that the input is 1-dimensional for simplicity. We will use the k-nearest neighbors algorithm to make new predictions.
 
 *Instructions*: Implement your own function to make predictions in python.
 Find below a function signature to help you in the process
