@@ -1,4 +1,4 @@
-[**Introduction**](https://melaniefp.github.io/intro_to_ML_DSC6135/) | [**Schedule**](../schedule.html) | [**Activities**](../activities.html) | [**Paper presentation**](presentations.html) | [**Resources**](../references.html)
+[**Introduction**](https://melaniefp.github.io/intro_to_ML_DSC6135/) | [**Schedule**](../schedule.html) | [**Activities**](../activities.html) | [**Presentations**](presentations.html) | [**Resources**](../references.html)
 
 ## Final Presentations
 
@@ -16,7 +16,7 @@ and your partner's next to your choice.
 Choosing a paper is a first come, first served assignment; you may not choose a paper
 that is no longer available.
 
-**You have until 27th June 23:59 to select a paper**.
+**You have until June 27th 23:59 to select a paper**.
 If you don't make your selection by the specified date, we will assign you a paper and a partner.
 
 
