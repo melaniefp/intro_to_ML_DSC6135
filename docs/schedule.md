@@ -9,7 +9,7 @@
 |  1/July/2019 |  | 03_bayesian_regression | [ideathon](https://docs.google.com/document/d/18zX8fHoosjsIoUFmhmZ9GdhB6ZjSFNqCyILRMtCCP4E/edit?usp=sharing)  | |
 |  2/July/2019 | out: HW2<br/> due: HW1 (midnight) | 04_classification |  |  |
 |  3/July/2019 |  | 05_neural_networks |  | |
-|  4/July/2019 |  | hackathon (6-10pm) |  |  |
+|  4/July/2019 |  | | hackathon (6-10pm)  |  |
 |  5/July/2019 | out: HW3<br/> due: HW2 (midnight) | 06_model_evaluation |  |  |
 |  8/July/2019 | out: HW4<br/> due: HW3 (midnight) | 07_dim_reduction |  |  |
 |  9/July/2019 |  | 08_clustering |  |  |
