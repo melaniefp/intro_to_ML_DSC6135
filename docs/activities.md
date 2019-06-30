@@ -8,7 +8,8 @@ A “hackathon” is an intense 1 or 2 day event in which those working in tech 
 
 (Information coming soon)
 
-## Presentations (choosing papers due: July 4th; presentations on: Friday 12th)
+## Presentations
+#### (choosing papers due: July 4th; presentations on: Friday 12th)
 
 * Follow the [link](presentation/presentation.md) to choose a paper for the final
 presentation and read the instructions. **You have until 4th July 23:59 to select a paper**.
