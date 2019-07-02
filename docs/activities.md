@@ -31,10 +31,10 @@ If you don't make your selection by the specified date, we will assign you a pap
 
 ### Morning Group:
 
-    * 28 June: [00_regression](https://docs.google.com/forms/d/1gdUIEedv8AQIRTu1uKUPib9eMmp_5Vl2vj0GAfipMaI/edit).
-    * 02 July: [01_generalization](https://docs.google.com/forms/d/1ZXHNtyI9-uNDCA-H8FOL1djoInHEm40AinhQFXbrq14/viewform?edit_requested=true)
+* 28 June: [00_regression](https://docs.google.com/forms/d/1gdUIEedv8AQIRTu1uKUPib9eMmp_5Vl2vj0GAfipMaI/edit).
+* 02 July: [01_generalization](https://docs.google.com/forms/d/1ZXHNtyI9-uNDCA-H8FOL1djoInHEm40AinhQFXbrq14/viewform?edit_requested=true)
 
 ### Afternoon Group:
 
-    * 28 June: [00_regression](https://docs.google.com/forms/d/1gdUIEedv8AQIRTu1uKUPib9eMmp_5Vl2vj0GAfipMaI/edit).
-    * 02 July: [01_generalization](https://docs.google.com/forms/d/1x41HrMIxJz2R7hqGIQoAwMlF_LhEddr3GmVyMCIt0zg/edit#responses)
+* 28 June: [00_regression](https://docs.google.com/forms/d/1gdUIEedv8AQIRTu1uKUPib9eMmp_5Vl2vj0GAfipMaI/edit).
+* 02 July: [01_generalization](https://docs.google.com/forms/d/1x41HrMIxJz2R7hqGIQoAwMlF_LhEddr3GmVyMCIt0zg/edit#responses)
