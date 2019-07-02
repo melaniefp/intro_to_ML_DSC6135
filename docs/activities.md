@@ -20,5 +20,5 @@ If you don't make your selection by the specified date, we will assign you a pap
 ## Quizzes
 
 * 28 June: [regression](https://docs.google.com/forms/d/1gdUIEedv8AQIRTu1uKUPib9eMmp_5Vl2vj0GAfipMaI/edit).
-* 02 July: [generalization](https://docs.google.com/forms/d/1ZXHNtyI9-uNDCA-H8FOL1djoInHEm40AinhQFXbrq14/viewform?edit_requested=true)
-
+* 02 July: [generalization (morning group)](https://docs.google.com/forms/d/1ZXHNtyI9-uNDCA-H8FOL1djoInHEm40AinhQFXbrq14/viewform?edit_requested=true)
+* 02 July: [generalization (afternoon group)](https://docs.google.com/forms/d/1x41HrMIxJz2R7hqGIQoAwMlF_LhEddr3GmVyMCIt0zg/edit#responses)
