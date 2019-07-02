@@ -7,7 +7,7 @@
 |  27/June/2019 | [HW0](hw/hw0.md) | [00_intro to ML](slides/00_intro_slides.pdf) [01_regression](slides/01_regression.pdf) |  | [intro_numpy.ipynb](supplementary/intro_numpy.ipynb)<br/> [00_review_notes.pdf](slides/00_review_notes.pdf)<br/> Section 2.3 of ESL Book |
 |  28/June/2019 | [HW1](hw/hw1.md) | [02_model_evaluation.pdf](slides/02_model_evaluation.pdf)  |  [02_variance_reduction.ipynb](supplementary/02_practical_variance_reduction_and_likelihood.ipynb) | Chap.3 Bishop Book |
 |  1/July/2019 |  | | [ideathon](https://docs.google.com/document/d/18zX8fHoosjsIoUFmhmZ9GdhB6ZjSFNqCyILRMtCCP4E/edit?usp=sharing)  | Chap.3 Bishop Book |
-|  2/July/2019 | out: HW2<br/> due: HW1 (midnight) | [03_classification PART I](slides/classification/03_classification_slides.pdf)<br/> [03_classification PART II](slides/classification/slides_trees.ipynb) | [practical1](slides/classification/non-linear_logistic_regression.ipynb)<br/> [practical2](slides/classification/practical_session_2.zip)  | Section 4.1, 4.3 of Bishop Book |
+|  2/July/2019 | out: HW2<br/> due: HW1 (midnight) | [03_classification PART I](slides/classification/03_classification_slides.pdf)<br/> [03_classification PART II](slides/slides_trees.ipynb) | [practical1](slides/classification/non-linear_logistic_regression.ipynb)<br/> [practical2](slides/classification/practical_session_2.zip)  | Section 4.1, 4.3 of Bishop Book |
 |  3/July/2019 |  | 04_neural_networks |  | |
 |  4/July/2019 |  | | hackathon (6-10pm)  |  |
 |  5/July/2019 | out: HW3<br/> due: HW2 (midnight) | 05_model_evaluation |  |  |
