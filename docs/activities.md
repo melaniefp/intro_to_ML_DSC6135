@@ -25,7 +25,7 @@ If you don't make your selection by the specified date, we will assign you a pap
 
 * [HW2](hw/hw2.md): out on Tueday 2nd July; due on Friday, July 5th at 23:59pm.
 
-* [HW3](hw/hw3.md): out on Thursday 4th July; due on Monday, July 8th at 23:59pm.
+* HW3: out on Thursday 4th July; due on Monday, July 8th at 23:59pm.
 
 ## Quizzes
 
