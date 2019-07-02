@@ -17,8 +17,24 @@ A “hackathon” is an intense 1 or 2 day event in which those working in tech 
 presentation and read the instructions. **You have until 4th July 23:59 to select a paper**.
 If you don't make your selection by the specified date, we will assign you a paper and a partner.
 
+## Homeworks
+
+* [HW0](hw/hw0.md): does not count for grading.
+
+* [HW1](hw/hw1.md): out on Friday 31st June; due on Tuesday, July 2nd at 23:59pm.
+
+* [HW2](hw/hw2.md): out on Tueday 2nd July; due on Friday, July 5th at 23:59pm.
+
+* [HW3](hw/hw3.md): out on Thursday 4th July; due on Monday, July 8th at 23:59pm.
+
 ## Quizzes
 
-* 28 June: [regression](https://docs.google.com/forms/d/1gdUIEedv8AQIRTu1uKUPib9eMmp_5Vl2vj0GAfipMaI/edit).
-* 02 July: [generalization (morning group)](https://docs.google.com/forms/d/1ZXHNtyI9-uNDCA-H8FOL1djoInHEm40AinhQFXbrq14/viewform?edit_requested=true)
-* 02 July: [generalization (afternoon group)](https://docs.google.com/forms/d/1x41HrMIxJz2R7hqGIQoAwMlF_LhEddr3GmVyMCIt0zg/edit#responses)
+### Morning Group:
+
+    * 28 June: [00_regression](https://docs.google.com/forms/d/1gdUIEedv8AQIRTu1uKUPib9eMmp_5Vl2vj0GAfipMaI/edit).
+    * 02 July: [01_generalization](https://docs.google.com/forms/d/1ZXHNtyI9-uNDCA-H8FOL1djoInHEm40AinhQFXbrq14/viewform?edit_requested=true)
+
+### Afternoon Group:
+
+    * 28 June: [00_regression](https://docs.google.com/forms/d/1gdUIEedv8AQIRTu1uKUPib9eMmp_5Vl2vj0GAfipMaI/edit).
+    * 02 July: [01_generalization](https://docs.google.com/forms/d/1x41HrMIxJz2R7hqGIQoAwMlF_LhEddr3GmVyMCIt0zg/edit#responses)
