@@ -34,7 +34,7 @@ PDF report:
 ** Starter code and Data:**
 
 Download material here:
-<https://melaniefp.github.io/intro_to_ML_DSC6135/hw/HW2/hw2.zip>
+<https://melaniefp.github.io/intro_to_ML_DSC6135/hw/HW2/HW2.zip>
 
 Note: be sure that all plots include readable axes, labels and legends if needed, when multiple lines are shown.
 
