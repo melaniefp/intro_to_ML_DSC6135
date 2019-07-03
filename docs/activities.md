@@ -39,4 +39,4 @@ If you don't make your selection by the specified date, we will assign you a pap
 
 * 28 June: [01_regression](https://docs.google.com/forms/d/1gdUIEedv8AQIRTu1uKUPib9eMmp_5Vl2vj0GAfipMaI/edit).
 * 02 July: [02_generalization](https://docs.google.com/forms/d/1x41HrMIxJz2R7hqGIQoAwMlF_LhEddr3GmVyMCIt0zg/edit#responses)
-* 03 July: [03_classification](https://docs.google.com/forms/d/1JNsiqCaeX7oYNpRrBZLksCQHYzoiFBcc3LgJQrRorqc)
+* 03 July: [03_classification](https://docs.google.com/forms/d/1AbX60y1f3ejihr-IDorN9l-TO_F9WMxxC0l3PXovJKc)
