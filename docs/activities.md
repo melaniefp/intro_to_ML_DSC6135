@@ -19,7 +19,7 @@ In this hackathon, you will be building a machine learning algorithm to help cre
 
 Download all information and instructions [here](slides/hackathon.zip)!
 
-TRUE LABELS RELEASED [here](hackathon/default_data_y_test.csv)
+TRUE LABELS RELEASED [here](default_data_y_test.csv)
 
 To load the data, use these lines:
 
