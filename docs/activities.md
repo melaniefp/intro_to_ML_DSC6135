@@ -19,6 +19,8 @@ In this hackathon, you will be building a machine learning algorithm to help cre
 
 Download all information and instructions [here](slides/hackathon.zip)!
 
+Link to colab [here](https://tinyurl.com/y3unbehn)
+
 ## Presentations
 #### (When: choosing papers due on July 4th; presentations on Friday July 12th)
 
