@@ -19,10 +19,12 @@ In this hackathon, you will be building a machine learning algorithm to help cre
 
 Download all information and instructions [here](slides/hackathon.zip)!
 
-TRUE LABELS RELEASED [here](default_data_y_test.csv)
+TRUE LABELS RELEASED [here](hackathon/default_data_y_test.csv)
 
 To load the data, use these lines:
-y_df = pd.read_csv('default_data_y_test.csv')
+
+y_df = pd.read_csv('https://raw.githubusercontent.com/onefishy/rwanda_2019/master/default_data_y_test.csv')
+
 y_test = y_df.values
 
 
