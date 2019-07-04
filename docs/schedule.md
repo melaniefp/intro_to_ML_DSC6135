@@ -9,7 +9,7 @@
 |  1/July/2019 |  | | [ideathon](https://docs.google.com/document/d/18zX8fHoosjsIoUFmhmZ9GdhB6ZjSFNqCyILRMtCCP4E/edit?usp=sharing)  | Chap.3 Bishop Book |
 |  2/July/2019 | out: [HW2](hw/hw2.md) <br/> due: [HW1](hw/hw1.md) (midnight) | [03_classification](slides/classification/03_classification.ipynb) | [practical_classification](slides/classification/practical_classification.zip)  | Section 4.1, 4.3 of Bishop Book |
 |  3/July/2019 |  | [04_neural_networks](slides/neural_networks/04_neural_networks.ipynb) | [practical_neural_networks](https://colab.research.google.com/drive/1JfzPbBRXfgx9SOHbkCVNxAirfqH_7Ic7#scrollTo=ALAbFrjKDu_H) | |
-|  4/July/2019 | out: HW3 | | hackathon (6-10pm)  |  |
+|  4/July/2019 | out: [HW3](hw/hw3.md) | | hackathon (6-10pm)  |  |
 |  5/July/2019 | due: HW2 (midnight) | 05_model_evaluation |  |  |
 |  8/July/2019 | out: HW4<br/> due: HW3 (midnight) | 06_dim_reduction |  |  |
 |  9/July/2019 |  | 07_clustering |  |  |
