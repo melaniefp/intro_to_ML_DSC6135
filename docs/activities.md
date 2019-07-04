@@ -8,7 +8,16 @@ A “hackathon” is an intense 1 or 2 day event in which those working in tech 
 ## Hackaton
 #### (When: Thursday July 4th, 2019)
 
-(Information coming soon)
+**What is a Hackathon?**
+
+A "hackathon" is an intense 1 or 2 day event in which those working in tech (e.g. programmer, graphic designers, data scientists) work with domain experts to collaborate on software projects.
+The goal of a hackathon is to create usable software or hardware with the goal of producing a functioning product by the end of the event. Hackathons tend to have a specific focus, for example, on solving a single real-life problem.
+
+**What is this Hackathon about?**
+
+In this hackathon, you will be building a machine learning algorithm to help credit card companies predict if a client will default on their credit card payment in the next month. 
+
+Download all information and instructions [here](slides/hackathon.zip)!
 
 ## Presentations
 #### (When: choosing papers due on July 4th; presentations on Friday July 12th)
