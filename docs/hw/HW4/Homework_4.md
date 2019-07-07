@@ -1,40 +1,6 @@
-  <script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-      tex2jax: {
-        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-        inlineMath: [['$','$']]
-      }
-    });
-  </script>
-  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
-# HW4: Practical to Neural Networks
-
-**Due date**: Wed. July 10 at 11:59PM EST.
-
-**Turn-in links**:
-
-IMPORTANT: please name the file as firstname_lastname.ipynb
-
-* JUPYTER notebook turned in to: <https://www.aeoncase.com/inbox/AA2YItDVwwJUdt4H1FYkM>
-
-
-**Files to Turn In:**
-
-Access the following colab link and complete the exercises. Then, reach `File` in the menu
-and select `Download .ipynb`. Save the file and turn the file in the link above.
-
-* [Colab link](https://colab.research.google.com/drive/17NvzY3vXxgs24GqgwSVHXELa1GhqBo-b)
-* COLLABORATORS : complete the cell with your name and the name of your collaborator inside the notebook.
-
-PDF report: no pdf report is needed for this homework.
-
-* This document will be manually graded
-
-Note: be sure that all plots include readable axes, labels and legends if needed, when multiple lines are shown.
-
-
----
+# Homework #4: Neural Network Models for Classification
+## Introduction to Machine Learning
 
 
 
@@ -63,14 +29,16 @@ import matplotlib.pyplot as plt
 %matplotlib inline
 ```
 
+    Using TensorFlow backend.
+
 
 ## Application: Handwritten Digit Classification
 
 A common image processing task is to convert hand written documents into digital ones so that information can be extracted and stored in a database. However, written text can vary widely in shape and size (depending on the individual who is writting). Recognizing the letter  6 regardless, for example, across different styles of writting is very difficult.
 
-In this problem, your task is to classify images of handwritten digits.
+In this problem, your task is to classify images of handwritten digits. 
 
-The data set is provided in the file `dataset_1.txt` and contains 28x28 gray-scale images of hand-written digits, flattened to a $784$-length vector. The last column contains the digit. For simplicity, we have only included digits 2, 4, 5.
+The data set is provided in the file `dataset_1.txt` and contains 28x28 gray-scale images of hand-written digits, flattened to a $784$-length vector. The last column contains the digit. For simplicity, we have only included digits 2, 4, 5. 
 
 We want you to build a model that can be given the image of a hand-written digit and correctly classify this digit as 2, 4, 5.
 
@@ -138,7 +106,7 @@ plt.show()
 ```
 
 
-![png](HW4/output_7_0.png)
+![png](output_7_0.png)
 
 
 ## Exercise 1: Build a Logistic Regression model to classify handwritten digits.
@@ -156,7 +124,7 @@ sklearn.linear_model.LogisticRegression(C=1., multi_class='multinomial')
 # WRITE CODE
 ```
 
-#### Part B.  Evaluate your classifier using accuracy and confusion matrices.
+#### Part B.  Evaluate your classifier using accuracy and confusion matrices. 
 
 Print the confusion matrix and accuracy of your classifier.
 
@@ -174,7 +142,7 @@ Does your classifiers fit each class equally well? Why or why not (use your unde
 
 #### Part A. Fit a neural network with your choice of architecture and activation to the training data set
 
-Note that since there are 3 classes, you need to let `keras` neural network model know that you are performing multiclass classification. Do this by setting the number of output nodes in the output layer to be 3 and the activation in the output layer to be `softmax`. For example,
+Note that since there are 3 classes, you need to let `keras` neural network model know that you are performing multiclass classification. Do this by setting the number of output nodes in the output layer to be 3 and the activation in the output layer to be `softmax`. For example, 
 ``` python
 model.add(Dense(3, activation='softmax'))
 ```
@@ -188,7 +156,7 @@ model.compile(loss='categorical_crossentropy', optimizer=adam)
 # WRITE CODE
 ```
 
-#### Part B.  Evaluate your classifier using accuracy and confusion matrices.
+#### Part B.  Evaluate your classifier using accuracy and confusion matrices. 
 
 Print the confusion matrix and accuracy of your classifier.
 
@@ -204,7 +172,7 @@ Does your classifiers fit each class equally well? Why or why not (use your unde
 **Answer**: COMPLETE
 
 
-#### Part C.  Compare your neural network classifier to your logistic regression classifier.
+#### Part C.  Compare your neural network classifier to your logistic regression classifier. 
 
 Which model performs best on this dataset and this task? Why do you think that is?
 
