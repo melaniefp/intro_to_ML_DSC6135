@@ -8,13 +8,13 @@
 |  28/June/2019 | [HW1](hw/hw1.md) | [02_generalization](slides/02_generalization)  |  [lab_generalization](supplementary/02_practical_variance_reduction_and_likelihood.ipynb) | Chap.3 Bishop Book |
 |  1/July/2019 |  | | [ideathon](https://docs.google.com/document/d/18zX8fHoosjsIoUFmhmZ9GdhB6ZjSFNqCyILRMtCCP4E/edit?usp=sharing)  | Chap.3 Bishop Book |
 |  2/July/2019 | out: [HW2](hw/hw2.md) <br/> due: [HW1](hw/hw1.md) (midnight) | [03_classification](slides/classification/03_classification.ipynb) | [lab_classification](slides/classification/practical_classification.zip)  | Section 4.1, 4.3 of Bishop Book |
-|  3/July/2019 |  | [04_neural_networks](slides/neural_networks/04_neural_networks.ipynb) | [lab_neural_networks](https://colab.research.google.com/drive/1JfzPbBRXfgx9SOHbkCVNxAirfqH_7Ic7#scrollTo=ALAbFrjKDu_H) | |
+|  3/July/2019 |  | [04_neural_networks](slides/neural_networks/04_neural_networks.ipynb) | | |
 |  4/July/2019 | out: [HW3](hw/hw3.md) | | [hackathon](slides/hackathon.zip) (4-8pm)  |  |
 |  5/July/2019 | due: HW2 (midnight) | [05_model_inspection](slides/05_practical.pdf) | [lab_model_inspection](slides/05_practical_using_models_in_practice.zip)  |  |
-|  8/July/2019 | out: HW4<br/> due: HW3 (midnight) | 06_dim_reduction |  |  |
-|  9/July/2019 |  | 07_clustering |  |  |
-|  10/July/2019 | out: HW5<br/> (+) due:HW4 (midnight) | 08_reco_systems |  |  |
-|  11/July/2019 |  | 09_topic_models |  |  |
+|  8/July/2019 | out: HW4<br/> due: HW3 (midnight) | | [lab_neural_networks](https://colab.research.google.com/drive/1JfzPbBRXfgx9SOHbkCVNxAirfqH_7Ic7#scrollTo=ALAbFrjKDu_H)   |[ext_link](http://neuralnetworksanddeeplearning.com/chap4.html)  |
+|  9/July/2019 |  | 06_bayesian_inference |  |  |
+|  10/July/2019 | out: HW5<br/> (+) due:HW4 (midnight) | 07_clustering |  |  |
+|  11/July/2019 |  | 08_hidden_markov_models |  |  |
 |  12/July/2019 | Presentation | 10_ethics | [presentations](papers/presentations.html) | <https://learngitbranching.js.org/> |
 |   | (+) due: HW5 on 14/July/2019 midnight |  |  |  |
 
