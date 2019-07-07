@@ -28,6 +28,6 @@ A further note. Although we will monitor this forum every day, don't expect imme
 
 ### Other ML Applications
 
-[Malaria Hero](https://blog.insightdatascience.com/https-blog-insightdatascience-com-malaria-hero-a47d3d5fc4bb)
-[Recommender Systems in Python: Beginner Tutorial](https://www.datacamp.com/community/tutorials/recommender-systems-python)
-[Application of Autoencoders and Implementation in Keras](https://www.datacamp.com/community/tutorials/autoencoder-keras-tutorial)
+[Malaria Hero](https://blog.insightdatascience.com/https-blog-insightdatascience-com-malaria-hero-a47d3d5fc4bb)<br>
+[Recommender Systems in Python: Beginner Tutorial](https://www.datacamp.com/community/tutorials/recommender-systems-python)<br>
+[Application of Autoencoders and Implementation in Keras](https://www.datacamp.com/community/tutorials/autoencoder-keras-tutorial)<br>
