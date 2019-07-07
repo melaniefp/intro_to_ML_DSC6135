@@ -1,6 +1,6 @@
 [**Introduction**](https://melaniefp.github.io/intro_to_ML_DSC6135/) | [**Schedule**](schedule.html) | [**Activities**](activities.html) | [**Presentations**](papers/presentations.html) | [**Resources**](references.html)
 
-## Student Form - Piazza
+## Student Forum - Piazza
 
 Piazza is a free online gathering place where students can ask, answer, and explore 24/7, under the guidance of their instructors. Piazza is a Q&A web service, in between a wiki and a forum.
 
