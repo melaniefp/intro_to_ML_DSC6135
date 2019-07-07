@@ -22,4 +22,12 @@ A further note. Although we will monitor this forum every day, don't expect imme
 
 ## Further Readings
 
+### General Links
+[Machine Learning Resources: Ritchie Ng Blog](https://www.ritchieng.com/machine-learning-resources/)
+
+
+### Other ML Applications
+
 [Malaria Hero](https://blog.insightdatascience.com/https-blog-insightdatascience-com-malaria-hero-a47d3d5fc4bb)
+[Recommender Systems in Python: Beginner Tutorial](https://www.datacamp.com/community/tutorials/recommender-systems-python)
+[Application of Autoencoders and Implementation in Keras](https://www.datacamp.com/community/tutorials/autoencoder-keras-tutorial)

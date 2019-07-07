@@ -10,7 +10,7 @@
 |  2/July/2019 | out: [HW2](hw/hw2.md) <br/> due: [HW1](hw/hw1.md) (midnight) | [03_classification](slides/classification/03_classification.ipynb) | [lab_classification](slides/classification/practical_classification.zip)  | Section 4.1 Bishop<br>Section 4.3 Bishop |
 |  3/July/2019 |  | [04_neural_networks](slides/neural_networks/04_neural_networks.ipynb) | | [external_demo](https://playground.tensorflow.org) |
 |  4/July/2019 | out: [HW3](hw/hw3.md) | | [hackathon](slides/hackathon.zip) (4-8pm)  |  |
-|  5/July/2019 | due: HW2 (midnight) | [05_model_inspection](slides/05_practical.pdf) | [lab_model_inspection](slides/05_practical_using_models_in_practice.zip)  |  |
+|  5/July/2019 | due: HW2 (midnight) | [05_model_inspection](slides/05_practical.pdf) | [lab_model_inspection](slides/05_practical_using_models_in_practice.zip)  | [further_reading1](https://www.ritchieng.com/machine-learning-evaluate-linear-regression-model/)<br> [further_reading2](https://christophm.github.io/interpretable-ml-book/feature-importance.html)  |
 |  8/July/2019 | out: HW4<br/> due: HW3 (midnight) | | [lab_neural_networks](https://colab.research.google.com/drive/1JfzPbBRXfgx9SOHbkCVNxAirfqH_7Ic7#scrollTo=ALAbFrjKDu_H)   |[further_reading](http://neuralnetworksanddeeplearning.com/chap4.html)  |
 |  9/July/2019 |  | 06_bayesian_inference |  |  |
 |  10/July/2019 | out: HW5 (+)<br> due:HW4 (midnight) | 07_clustering |  | [demo_kmeans](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/) |
