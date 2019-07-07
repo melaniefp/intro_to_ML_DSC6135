@@ -1,6 +1,6 @@
 [**Introduction**](https://melaniefp.github.io/intro_to_ML_DSC6135/) | [**Schedule**](schedule.html) | [**Activities**](activities.html) | [**Presentations**](papers/presentations.html) | [**Resources**](references.html)
 
-## Student Form - Piazza
+## Student Forum - Piazza
 
 Piazza is a free online gathering place where students can ask, answer, and explore 24/7, under the guidance of their instructors. Piazza is a Q&A web service, in between a wiki and a forum.
 
@@ -18,3 +18,16 @@ A further note. Although we will monitor this forum every day, don't expect imme
 - Murphy, Kevin P. Machine learning: a probabilistic perspective. MIT press, 2012.
 - VanderPlas, Jake. Python data science handbook: essential tools for working with data. " O'Reilly Media, Inc.", 2016.
 - McKinney, Wes. Python for data analysis: Data wrangling with Pandas, NumPy, and IPython. " O'Reilly Media, Inc.", 2012.
+
+
+## Further Readings
+
+### General Links
+[Machine Learning Resources: Ritchie Ng Blog](https://www.ritchieng.com/machine-learning-resources/)
+
+
+### Other ML Applications
+
+[Malaria Hero](https://blog.insightdatascience.com/https-blog-insightdatascience-com-malaria-hero-a47d3d5fc4bb)<br>
+[Recommender Systems in Python: Beginner Tutorial](https://www.datacamp.com/community/tutorials/recommender-systems-python)<br>
+[Application of Autoencoders and Implementation in Keras](https://www.datacamp.com/community/tutorials/autoencoder-keras-tutorial)<br>
