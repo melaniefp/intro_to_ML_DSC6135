@@ -15,6 +15,6 @@
 |  9/July/2019 |  | 06_bayesian_inference |  |  |
 |  10/July/2019 | out: HW5<br/> (+) due:HW4 (midnight) | 07_clustering |  |  |
 |  11/July/2019 |  | 08_hidden_markov_models |  |  |
-|  12/July/2019 | Presentation | 10_ethics | [presentations](papers/presentations.html) | <https://learngitbranching.js.org/> |
+|  12/July/2019 | Presentation | 09_ethics | [presentations](papers/presentations.html) | <https://learngitbranching.js.org/> |
 |   | (+) due: HW5 on 14/July/2019 midnight |  |  |  |
 
