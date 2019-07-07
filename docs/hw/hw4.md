@@ -22,7 +22,7 @@ IMPORTANT: please name the file as firstname_lastname.ipynb
 **Files to Turn In:**
 
 Access the following colab link and complete the exercises. Then, reach `File` in the menu
-and select `Download .ipynb`. Save the file and turn the file [here](https://www.aeoncase.com/inbox/AA2YItDVwwJUdt4H1FYkM).
+and select `Download .ipynb`. Save the file and turn the file in the link above.
 
 * [Colab link](https://colab.research.google.com/drive/17NvzY3vXxgs24GqgwSVHXELa1GhqBo-b)
 * COLLABORATORS : complete the cell with your name and the name of your collaborator inside the notebook.
@@ -35,11 +35,6 @@ Note: be sure that all plots include readable axes, labels and legends if needed
 
 
 ---
-
-
-
-# Homework #4: Neural Network Models for Classification
-## Introduction to Machine Learning
 
 
 
