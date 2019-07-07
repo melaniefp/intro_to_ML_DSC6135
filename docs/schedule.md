@@ -11,7 +11,7 @@
 |  3/July/2019 |  | [04_neural_networks](slides/neural_networks/04_neural_networks.ipynb) | | [ext_demo](https://playground.tensorflow.org) |
 |  4/July/2019 | out: [HW3](hw/hw3.md) | | [hackathon](slides/hackathon.zip) (4-8pm)  |  |
 |  5/July/2019 | due: HW2 (midnight) | [05_model_inspection](slides/05_practical.pdf) | [lab_model_inspection](slides/05_practical_using_models_in_practice.zip)  |  |
-|  8/July/2019 | out: HW4<br/> due: HW3 (midnight) | | [lab_neural_networks](https://colab.research.google.com/drive/1JfzPbBRXfgx9SOHbkCVNxAirfqH_7Ic7#scrollTo=ALAbFrjKDu_H)   |[ext_link](http://neuralnetworksanddeeplearning.com/chap4.html)  |
+|  8/July/2019 | out: HW4<br/> due: HW3 (midnight) | [06_neural_networks_part2](slides/neural_networks/04_neural_networks_part2.ipynb) | [lab_NN_linear_regression](https://colab.research.google.com/drive/1JfzPbBRXfgx9SOHbkCVNxAirfqH_7Ic7#scrollTo=ALAbFrjKDu_H) [lab_NN_linear_regression](https://colab.research.google.com/drive/1W4MZqQr04NeM42ryrFEBnUuKjgB4DfBA)  |[ext_link](http://neuralnetworksanddeeplearning.com/chap4.html)  |
 |  9/July/2019 |  | 06_bayesian_inference |  |  |
 |  10/July/2019 | out: HW5<br/> (+) due:HW4 (midnight) | 07_clustering |  |  |
 |  11/July/2019 |  | 08_hidden_markov_models |  |  |

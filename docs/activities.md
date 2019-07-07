@@ -15,7 +15,7 @@ The goal of a hackathon is to create usable software or hardware with the goal o
 
 **What is this Hackathon about?**
 
-In this hackathon, you will be building a machine learning algorithm to help credit card companies predict if a client will default on their credit card payment in the next month. 
+In this hackathon, you will be building a machine learning algorithm to help credit card companies predict if a client will default on their credit card payment in the next month.
 
 Download all information and instructions [here](slides/hackathon.zip)!
 
@@ -55,6 +55,7 @@ If you don't make your selection by the specified date, we will assign you a pap
 * 02 July: [quiz_02](https://docs.google.com/forms/d/1ZXHNtyI9-uNDCA-H8FOL1djoInHEm40AinhQFXbrq14/viewform?edit_requested=true)
 * 03 July: [quiz_03](https://docs.google.com/forms/d/1JNsiqCaeX7oYNpRrBZLksCQHYzoiFBcc3LgJQrRorqc)
 * 05 July: [quiz_04](https://docs.google.com/forms/d/1yK5nhfIbKf_d2bQnTInMVXL4BPVBlngoe9t9tr2XdgU/edit)
+* 08 July: [quiz_05](https://docs.google.com/forms/d/1lfqF9hNiTNdmXSMJv0zdXeJDVdLPMWEDM5BKRjXKKu4/edit)
 
 
 ### Afternoon Group:
@@ -63,3 +64,4 @@ If you don't make your selection by the specified date, we will assign you a pap
 * 02 July: [quiz_02](https://docs.google.com/forms/d/1x41HrMIxJz2R7hqGIQoAwMlF_LhEddr3GmVyMCIt0zg/edit#responses)
 * 03 July: [quiz_03](https://docs.google.com/forms/d/1AbX60y1f3ejihr-IDorN9l-TO_F9WMxxC0l3PXovJKc)
 * 05 July: [quiz_04](https://docs.google.com/forms/d/1yK5nhfIbKf_d2bQnTInMVXL4BPVBlngoe9t9tr2XdgU/edit)
+* 08 July: [quiz_05](https://docs.google.com/forms/d/1lfqF9hNiTNdmXSMJv0zdXeJDVdLPMWEDM5BKRjXKKu4/edit)
