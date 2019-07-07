@@ -18,3 +18,8 @@ A further note. Although we will monitor this forum every day, don't expect imme
 - Murphy, Kevin P. Machine learning: a probabilistic perspective. MIT press, 2012.
 - VanderPlas, Jake. Python data science handbook: essential tools for working with data. " O'Reilly Media, Inc.", 2016.
 - McKinney, Wes. Python for data analysis: Data wrangling with Pandas, NumPy, and IPython. " O'Reilly Media, Inc.", 2012.
+
+
+## Further Readings
+
+[Malaria Hero](https://blog.insightdatascience.com/https-blog-insightdatascience-com-malaria-hero-a47d3d5fc4bb)
