@@ -58,8 +58,7 @@ If you don't make your selection by the specified date, we will assign you a pap
 * 03 July: [quiz_03](https://docs.google.com/forms/d/1JNsiqCaeX7oYNpRrBZLksCQHYzoiFBcc3LgJQrRorqc)
 * 05 July: [quiz_04](https://docs.google.com/forms/d/1yK5nhfIbKf_d2bQnTInMVXL4BPVBlngoe9t9tr2XdgU/edit)
 * 08 July: [quiz_05](https://docs.google.com/forms/d/1lfqF9hNiTNdmXSMJv0zdXeJDVdLPMWEDM5BKRjXKKu4/edit)
-* 09 July: [quiz_06](https://docs.google.com/forms/d/1FDWuYJG4uWWyoddQWRbwF14diWbJZaR4HAfjBmELxeo/edit
-)
+* 09 July: [quiz_06](https://docs.google.com/forms/d/1FDWuYJG4uWWyoddQWRbwF14diWbJZaR4HAfjBmELxeo/edit)
 
 
 
@@ -70,3 +69,4 @@ If you don't make your selection by the specified date, we will assign you a pap
 * 03 July: [quiz_03](https://docs.google.com/forms/d/1AbX60y1f3ejihr-IDorN9l-TO_F9WMxxC0l3PXovJKc)
 * 05 July: [quiz_04](https://docs.google.com/forms/d/1yK5nhfIbKf_d2bQnTInMVXL4BPVBlngoe9t9tr2XdgU/edit)
 * 08 July: [quiz_05](https://docs.google.com/forms/d/1lfqF9hNiTNdmXSMJv0zdXeJDVdLPMWEDM5BKRjXKKu4/edit)
+* 09 July: [quiz_06](https://docs.google.com/forms/d/1FDWuYJG4uWWyoddQWRbwF14diWbJZaR4HAfjBmELxeo/edit)
