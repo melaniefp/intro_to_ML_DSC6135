@@ -53,20 +53,22 @@ If you don't make your selection by the specified date, we will assign you a pap
 
 ### Morning Group:
 
-* 28 June: [quiz_01](https://docs.google.com/forms/d/1gdUIEedv8AQIRTu1uKUPib9eMmp_5Vl2vj0GAfipMaI/edit).
-* 02 July: [quiz_02](https://docs.google.com/forms/d/1ZXHNtyI9-uNDCA-H8FOL1djoInHEm40AinhQFXbrq14/viewform?edit_requested=true)
+* 28 June: [quiz_01](https://docs.google.com/forms/d/1gdUIEedv8AQIRTu1uKUPib9eMmp_5Vl2vj0GAfipMaI).
+* 02 July: [quiz_02](https://docs.google.com/forms/d/1ZXHNtyI9-uNDCA-H8FOL1djoInHEm40AinhQFXbrq14)
 * 03 July: [quiz_03](https://docs.google.com/forms/d/1JNsiqCaeX7oYNpRrBZLksCQHYzoiFBcc3LgJQrRorqc)
-* 05 July: [quiz_04](https://docs.google.com/forms/d/1yK5nhfIbKf_d2bQnTInMVXL4BPVBlngoe9t9tr2XdgU/edit)
-* 08 July: [quiz_05](https://docs.google.com/forms/d/1lfqF9hNiTNdmXSMJv0zdXeJDVdLPMWEDM5BKRjXKKu4/edit)
-* 09 July: [quiz_06](https://docs.google.com/forms/d/1FDWuYJG4uWWyoddQWRbwF14diWbJZaR4HAfjBmELxeo/edit)
+* 05 July: [quiz_04](https://docs.google.com/forms/d/1yK5nhfIbKf_d2bQnTInMVXL4BPVBlngoe9t9tr2XdgU)
+* 08 July: [quiz_05](https://docs.google.com/forms/d/1lfqF9hNiTNdmXSMJv0zdXeJDVdLPMWEDM5BKRjXKKu4)
+* 09 July: [quiz_06](https://docs.google.com/forms/d/1FDWuYJG4uWWyoddQWRbwF14diWbJZaR4HAfjBmELxeo)
+* 10 July: [quiz_07](https://docs.google.com/forms/d/1FifOQyrhWsann3xG__Mrlp1HwhwPQ5rnb6bdQ0KCBAY)
 
 
 
 ### Afternoon Group:
 
-* 28 June: [quiz_01](https://docs.google.com/forms/d/1gdUIEedv8AQIRTu1uKUPib9eMmp_5Vl2vj0GAfipMaI/edit).
-* 02 July: [quiz_02](https://docs.google.com/forms/d/1x41HrMIxJz2R7hqGIQoAwMlF_LhEddr3GmVyMCIt0zg/edit#responses)
+* 28 June: [quiz_01](https://docs.google.com/forms/d/1gdUIEedv8AQIRTu1uKUPib9eMmp_5Vl2vj0GAfipMaI)
+* 02 July: [quiz_02](https://docs.google.com/forms/d/1x41HrMIxJz2R7hqGIQoAwMlF_LhEddr3GmVyMCIt0zg)
 * 03 July: [quiz_03](https://docs.google.com/forms/d/1AbX60y1f3ejihr-IDorN9l-TO_F9WMxxC0l3PXovJKc)
-* 05 July: [quiz_04](https://docs.google.com/forms/d/1yK5nhfIbKf_d2bQnTInMVXL4BPVBlngoe9t9tr2XdgU/edit)
-* 08 July: [quiz_05](https://docs.google.com/forms/d/1lfqF9hNiTNdmXSMJv0zdXeJDVdLPMWEDM5BKRjXKKu4/edit)
-* 09 July: [quiz_06](https://docs.google.com/forms/d/1FDWuYJG4uWWyoddQWRbwF14diWbJZaR4HAfjBmELxeo/edit)
+* 05 July: [quiz_04](https://docs.google.com/forms/d/1yK5nhfIbKf_d2bQnTInMVXL4BPVBlngoe9t9tr2XdgU)
+* 08 July: [quiz_05](https://docs.google.com/forms/d/1lfqF9hNiTNdmXSMJv0zdXeJDVdLPMWEDM5BKRjXKKu4)
+* 09 July: [quiz_06](https://docs.google.com/forms/d/1FDWuYJG4uWWyoddQWRbwF14diWbJZaR4HAfjBmELxeo)
+* 10 July: [quiz_07](https://docs.google.com/forms/d/1FifOQyrhWsann3xG__Mrlp1HwhwPQ5rnb6bdQ0KCBAY)
