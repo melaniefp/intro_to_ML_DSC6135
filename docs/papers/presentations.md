@@ -10,6 +10,37 @@ describing the main ideas of the paper you chose.
 The goal is for you to be able to understand and synthesize technical publications in fields
 that use machine learning tools.
 
+## PRESENTATION GUIDELINES
+
+* Make a presentation of a few slides describing the paper of your choice that is 8 minutes long
+and 2 min questions.
+
+* We will time the presentations.
+
+* If you have a group of 3 people, the presentation can last 12 minutes.
+
+* Every member of a group has to speak in the presentation, ideally for 4 minutes.
+
+* Make your presentation in Google Slides and send us a link. Please, don't use PowerPoint,
+it is not compatible with Linux in the computers we use.
+
+* Students from the morning session have to send us their presentations by 8am.
+The students from the afternoon session have to send us their presentation links by 6pm.
+Your group cannot present if you don't send us the slides by the indicated time.
+
+
+* We will evaluate your presentation based on the following aspects.
+
+    - Description of the problem being addressed in the paper.
+    - Importance of the addressed problem.
+    - Machine learning model description.
+    - Evaluation metric of choice.
+    - Experimental results.
+    - Conclusions.
+
+
+## Topics
+
 Read through the following list of proposed topics and publications.
 When you are ready and have selected a paper, follow this [link](https://docs.google.com/spreadsheets/d/1nKZckUHjQuO7gbzSwVZdx8NrmyYgqiDgV3Mx8mH2I98/edit?usp=sharing) and write your name
 and your partner's next to your choice.
