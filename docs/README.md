@@ -67,3 +67,11 @@ Many slides and homeworks are attributable to/inspired by:
 * Finale Doshi-Velez (Harvard University)
 * Erik Sudderth (University of California)
 * James, Witten, Hastie, Tibshirani, Bishop (ISL/ESL books)
+
+## Contact
+
+For any question or concern, please send us an email to any of us:
+
+Javier Zazo (jzazo - at - g.harvard.edu)
+Weiwei Pan (weiweipan - at - g.harvard.edu)
+Melanie F. Pradier (melanie - at - seas.harvard.edu)

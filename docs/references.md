@@ -8,6 +8,16 @@ Please enroll into your class Piazza platform [here](http://piazza.com/universit
 
 A further note. Although we will monitor this forum every day, don't expect immediate answers to your questions. We may take some time to read your question and answer, so be patient, expect collaboration from your peers, and contribute to this forum yourselves.
 
+## Contact
+
+Office hours: 12-13pm and 5:30-6pm every day.
+Do not hesitate to ask questions, or contact us for any help, we are here to support you.
+
+For any question or concern, please send us an email to any of us:
+
+Javier Zazo (jzazo - at - g.harvard.edu)
+Weiwei Pan (weiweipan - at - g.harvard.edu)
+Melanie F. Pradier (melanie - at - seas.harvard.edu)
 
 
 ## Reference materials
