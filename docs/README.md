@@ -72,6 +72,6 @@ Many slides and homeworks are attributable to/inspired by:
 
 For any question or concern, please send us an email to any of us:
 
-Javier Zazo (jzazo - at - g.harvard.edu)
-Weiwei Pan (weiweipan - at - g.harvard.edu)
+Javier Zazo (jzazo - at - g.harvard.edu)<br>
+Weiwei Pan (weiweipan - at - g.harvard.edu)<br>
 Melanie F. Pradier (melanie - at - seas.harvard.edu)
