@@ -63,6 +63,7 @@ If you don't make your selection by the specified date, we will assign you a pap
 * 09 July: [quiz_06](https://docs.google.com/forms/d/1FDWuYJG4uWWyoddQWRbwF14diWbJZaR4HAfjBmELxeo)
 * 10 July: [quiz_07](https://docs.google.com/forms/d/1FifOQyrhWsann3xG__Mrlp1HwhwPQ5rnb6bdQ0KCBAY)
 * 11 July: [quiz_08](https://docs.google.com/forms/d/1QF-EJYYT0rZSR-Rg_9tKkkpGimhNL2PMJp8kMooGGDc)
+* 12 July: [quiz_09](https://docs.google.com/forms/d/1apCNC0JIekZRnoTPMhGUreYALhAQs9Ft7FT3kwkuOJo)
 
 
 ### Afternoon Group:
@@ -75,3 +76,4 @@ If you don't make your selection by the specified date, we will assign you a pap
 * 09 July: [quiz_06](https://docs.google.com/forms/d/1FDWuYJG4uWWyoddQWRbwF14diWbJZaR4HAfjBmELxeo)
 * 10 July: [quiz_07](https://docs.google.com/forms/d/1FifOQyrhWsann3xG__Mrlp1HwhwPQ5rnb6bdQ0KCBAY)
 * 11 July: [quiz_08](https://docs.google.com/forms/d/1QF-EJYYT0rZSR-Rg_9tKkkpGimhNL2PMJp8kMooGGDc)
+* 12 July: [quiz_09](https://docs.google.com/forms/d/1apCNC0JIekZRnoTPMhGUreYALhAQs9Ft7FT3kwkuOJo)
