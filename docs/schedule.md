@@ -15,6 +15,6 @@
 |  9/July/2019 |  | [07_bayesian_inference](slides/07_bayesian_inference.pdf) | [07_labs_bayesian](slides/07_labs_bayesian_inference.zip)  |  |
 |  10/July/2019 | [HW5](hw/hw5.md) (+)<br> due:HW4 (midnight) | [08_clustering](slides/08_clustering.pdf) | [08_lab_clustering](slides/lab_clustering.zip) | [demo_kmeans](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/) |
 |  11/July/2019 |  | [09_advanced_ML_topics](slides/09_advanced_topics_ML.pdf) |  | [lecture_pca](slides/lecture_pca.pdf) <br>[lab_pca](slides/lab_pca.ipynb)  |
-|  12/July/2019 | Presentation | [10_ethics](slides/10_ethics.pdf) | [presentations](papers/presentations.html) | [Git tutorial](https://learngitbranching.js.org/) |
+|  12/July/2019 | Presentation | | [presentations](papers/presentations.html) | [10_ethics](slides/10_ethics.pdf)<br> [Git tutorial](https://learngitbranching.js.org/) |
 |   | (+) due: HW5 on 14/July/2019 midnight |  |  |  |
 
