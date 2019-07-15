@@ -53,17 +53,6 @@ There will be short quizzes/review of concepts at the beginning of each day.
 
 Your main deliverable will be homework reports. You’ll be assessed on effort, the sophistication of your technical approach, the clarity of your explanations, the evidence that you present to support your evaluative claims, and the performance of your implementation. A high performing approach with little explanation will receive little credit, while a careful set of experiments that illuminate why a particular direction turned out to be a dead end may receive close to full credit.
 
-## More machine learning opportunities
-
-1. [Machine Learning Summer School (scholarship available)](http://mlss.cc)
-2. [New York City Data Science Academy (scholarship available)](https://nycdatascience.com)
-3. [Microsoft Research Data Science Summer School (free)](https://www.microsoft.com/en-us/research/academic-program/data-science-summer-school/)
-4. [Online Courses Through Udemy (fee required)](https://www.udemy.com)
-5. [Online Courses Through edX](https://www.edx.org/course/machine-learning-1)
-6. [Online Courses Through Coursera (scholarship available)](https://www.coursera.org)
-
-
-
 
 ## Philosophy
 

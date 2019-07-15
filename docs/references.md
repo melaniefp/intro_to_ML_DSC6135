@@ -15,8 +15,8 @@ Do not hesitate to ask questions, or contact us for any help, we are here to sup
 
 For any question or concern, please send us an email to any of us:
 
-Javier Zazo (jzazo - at - g.harvard.edu)
-Weiwei Pan (weiweipan - at - g.harvard.edu)
+Javier Zazo (jzazo - at - g.harvard.edu)<br>
+Weiwei Pan (weiweipan - at - g.harvard.edu)<br>
 Melanie F. Pradier (melanie - at - seas.harvard.edu)
 
 
@@ -32,12 +32,20 @@ Melanie F. Pradier (melanie - at - seas.harvard.edu)
 
 ## Further Readings
 
-### General Links
 [Machine Learning Resources: Ritchie Ng Blog](https://www.ritchieng.com/machine-learning-resources/)
-
-
-### Other ML Applications
-
 [Malaria Hero](https://blog.insightdatascience.com/https-blog-insightdatascience-com-malaria-hero-a47d3d5fc4bb)<br>
 [Recommender Systems in Python: Beginner Tutorial](https://www.datacamp.com/community/tutorials/recommender-systems-python)<br>
 [Application of Autoencoders and Implementation in Keras](https://www.datacamp.com/community/tutorials/autoencoder-keras-tutorial)<br>
+
+
+## More machine learning opportunities
+
+1. [Machine Learning Summer School (scholarship available)](http://mlss.cc)
+2. [New York City Data Science Academy (scholarship available)](https://nycdatascience.com)
+3. [Microsoft Research Data Science Summer School (free)](https://www.microsoft.com/en-us/research/academic-program/data-science-summer-school/)
+4. [Online Courses Through Udemy (fee required)](https://www.udemy.com)
+5. [Online Courses Through edX](https://www.edx.org/course/machine-learning-1)
+6. [Online Courses Through Coursera (scholarship available)](https://www.coursera.org)
+
+
+

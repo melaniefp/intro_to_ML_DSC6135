@@ -18,17 +18,17 @@ The goal of a hackathon is to create usable software or hardware with the goal o
 In this hackathon, you will be building a machine learning algorithm to help credit card companies predict if a client will default on their credit card payment in the next month.
 
 Download all information and instructions [here](slides/hackathon.zip)!
+Otherwise, work directly in colab [here](https://tinyurl.com/y3unbehn)
+
+**Solution**:
 
 TRUE LABELS RELEASED [here](default_data_y_test.csv)
 
 To load the data, use these lines:
 
-y_df = pd.read_csv('https://raw.githubusercontent.com/onefishy/rwanda_2019/master/default_data_y_test.csv')
-
-y_test = y_df.values
-
-
-Link to colab [here](https://tinyurl.com/y3unbehn)
+    #!python
+    y_df = pd.read_csv('https://raw.githubusercontent.com/onefishy/rwanda_2019/master/default_data_y_test.csv')
+    y_test = y_df.values
 
 ## Presentations
 #### (When: choosing papers due on July 4th; presentations on Friday July 12th)
