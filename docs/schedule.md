@@ -14,7 +14,7 @@
 |  8/July/2019 | [HW4](hw/hw4.md) <br/> due: HW3 (midnight) | [06_neural_networks_part2](slides/neural_networks/04_neural_networks_part2.ipynb) | [lab_NN_regression](https://colab.research.google.com/drive/1JfzPbBRXfgx9SOHbkCVNxAirfqH_7Ic7#scrollTo=ALAbFrjKDu_H) [lab_NN_classification](https://colab.research.google.com/drive/1W4MZqQr04NeM42ryrFEBnUuKjgB4DfBA)  |[ext_link](http://neuralnetworksanddeeplearning.com/chap4.html)<br/> [optimizers](http://ruder.io/optimizing-gradient-descent/) |
 |  9/July/2019 |  | [07_bayesian_inference](slides/07_bayesian_inference.pdf) | [07_labs_bayesian](slides/07_labs_bayesian_inference.zip)  |  |
 |  10/July/2019 | [HW5](hw/hw5.md) (+)<br> due:HW4 (midnight) | [08_clustering](slides/08_lecture_clustering.ipynb) | [08_lab_clustering](slides/lab_clustering.zip) | [demo_kmeans](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/) |
-|  11/July/2019 |  | [08_advanced_ML_topics](slides/08_advanced_topics_ML.pdf) |  | [09_pca](slides/09_pca.pdf) <br>[09_lab_pca](09_lab_pca.ipynb)  |
+|  11/July/2019 |  | [08_advanced_ML_topics](slides/08_advanced_topics_ML.pdf) |  | [09_pca](slides/09_pca.pdf) <br>[09_lab_pca](slides/09_lab_pca.ipynb)  |
 |  12/July/2019 | Presentation | 09_ethics | [presentations](papers/presentations.html) | [Git tutorial](https://learngitbranching.js.org/) |
 |   | (+) due: HW5 on 14/July/2019 midnight |  |  |  |
 
